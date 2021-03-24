@@ -3,16 +3,16 @@ permalink: /about
 title: "About"
 ---
 
-# Chase Hospitals
+## Chase Hospitals
 This is a gui-based system which provide best solution for future's computerised intractions plus this Software uses offline Text to Speech software so that handicapped patients will have greater ease of access while running this software. All the data's are stored in tabular form in a relational database i.e. MySQL database with tkinter based gui written in Python.
 
 Talking about the features of this Hospital Management System, this project is aimed for a completely computerised management of our fictional hospital **Chase Hospitals**. A patient can register themselves, view their details and modify their details as well. They can see the Details of Doctors, view the Services offered by the hospital. They can also make an appointment to a particular doctor
 
-## Developers:
+### Developers:
 This project is created by **Udit Pati** and **Robin Vats** as part of their 12th CS project 2020 - 2021, under the able and very helpful guidance of PGT Mr. ML Meena Sir, Kendriya Vidyalaya No. 2 Delhi Cantt. 
 All codes in this file is completely written by Udit Pati and Robin Vats only. All images and icons are used under CC license.
 
-## Screenshots
+### Screenshots
 - **Main Window**     
 
 ![main window](/assets/Screenshots/main_window.jpg)
@@ -37,10 +37,10 @@ All codes in this file is completely written by Udit Pati and Robin Vats only. A
 
 ![about us](/assets/Screenshots/about.jpg)
 
-## Installation
+### Installation
 Clone or fork this project. Make sure to download the complete project. See dependencies to install additional libraries.
 
-## Default Data:
+### Default Data:
 Database Used 	- 	chase_hospitals      
 Tables Used 	-	patient_details, doctor_details, appointment, rooms
 
@@ -80,7 +80,7 @@ Tables Used 	-	patient_details, doctor_details, appointment, rooms
 +-----+-------------------+-----+------------+------------------+--------------------------------------------+
 ```
 
-## Dependencies:
+### Dependencies:
 ```
 1. python 3.x
 2. mysql.connector	-	connect with MySQL database
@@ -93,7 +93,7 @@ Tables Used 	-	patient_details, doctor_details, appointment, rooms
 9. Images
 ```
 
-## System Used:
+### System Used:
 ```
 +----+-------------------------------------------+
 | No | System_Used                               |

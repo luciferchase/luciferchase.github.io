@@ -3,7 +3,7 @@ permalink: /developers/
 title: "Developers"
 ---
 
-## Udit Pati (Lucifer Chase)
+## Lucifer Chase (Udit Pati)
 
 ![luciferchase](/assets/images/luciferchase.jpg)       
 
