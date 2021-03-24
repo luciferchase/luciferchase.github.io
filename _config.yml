@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Chase Hospitals
+url: "https://luciferchase.github.io"
 logo: "/assets/images/logo.png"
 email: luciferchase@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
@@ -27,7 +28,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: benbalter/retlab
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 repository: "luciferchase/luciferchase.github.io"
 # Outputting
 permalink: /:categories/:title/
@@ -88,6 +89,8 @@ footer:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
+    - atom_feed: 
+      hide: true
 
 defaults:
   # _posts
@@ -98,9 +101,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
