@@ -13,6 +13,6 @@ Easiest way to download. **Make sure to extract all the files on the same folder
 
 ### Clone it from GitHub
 ---
-:heavy_exclamation_mark: **WARNING:** Do this only if you know git|
----
+:heavy_exclamation_mark: **WARNING:** Do this only if you know git
+---      
 Go to the [repo](https://github.com/luciferchase/chase_hospitals) and clone it.
