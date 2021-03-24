@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /home
+title: "Home"
 ---
 
 # Chase Hospitals
@@ -10,7 +10,7 @@ Talking about the features of this Hospital Management System, this project is a
 
 ## Developers:
 This project is created by **Udit Pati** and **Robin Vats** as part of their 12th CS project 2020 - 2021, under the able and very helpful guidance of PGT Mr. ML Meena Sir, Kendriya Vidyalaya No. 2 Delhi Cantt. 
-All codes in this file is completely written by Udit Pati and Robin Vats only. All images and icons used under CC license
+All codes in this file is completely written by Udit Pati and Robin Vats only. All images and icons are used under CC license
 
 ## Screenshots
 - **Main Window**     

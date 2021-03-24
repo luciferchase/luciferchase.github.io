@@ -1,9 +1,9 @@
 main:
-  - title: "Overview"
-    url: /overview/
-  - title: "Screenshot"
-    url: /screenshot/
+  - title: "Description"
+    url: /description/
+  - title: "Screenshots"
+    url: /screenshots/
+  - title: "Installation"
+    url: /installation/
   - title: "Developers"
     url: /developers/
-  - title: "About"
-    url: /about/
