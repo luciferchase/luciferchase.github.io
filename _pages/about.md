@@ -1,6 +1,6 @@
 ---
-permalink: /home
-title: "Home"
+permalink: /about
+title: "About"
 ---
 
 # Chase Hospitals
