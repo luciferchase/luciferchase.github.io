@@ -59,4 +59,13 @@ After banging my head on the wall repeatedly and spending hours on the internet,
 
 How `frames()` works is that it makes a seperate window like partition inside a window. It acts completely independent of other content in the window.
 
-**Page Under Construction**
+```python
+# top frame (constant)
+top_frame = LabelFrame(root)
+top_frame.grid(row = 0, column = 0, rowspan = 2, columnspan = 8)
+top_frame.grid_propagate(0)
+```
+This creates a frame on the top of the window. Similarly other frames are also created.
+Now instead of initializing the buttons and other stuff in the root window, I would initialize them on their designated frame.
+
+In this way, the problem of different partition of the main window was solved. :party:
