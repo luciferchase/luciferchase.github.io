@@ -24,6 +24,7 @@ This project took pretty long. I didn't knew much about Tkinter so it was pretty
 
 Overall it was a very fun project. I certainly learned a lot. This website is to guide future students so that they won't repeat the same mistakes that I did.
 
+**Pages under construction**
 
 # Default Data
 Database Used 	- 	chase_hospitals      
@@ -36,7 +37,7 @@ Tables Used 	-	patient_details, doctor_details, appointment, rooms
 | 313570101 | Mr. Udit Pati           |  17 | M      | 8375054875 | Delhi      | O+          |
 | 313570102 | Mr. Robin Vats          |  17 | M      | 7567563156 | Delhi      | O+          |
 | 313570103 | Mr. Rahul Roy           |  18 | M      | 8345671848 | Mumbai     | A+          |
-| 313570104 | Mr. Aditya Manas        |  16 | M      | 7534586798 | Jaipur     | B+          |
+| 313570104 | Mr. Aditya Manas        |  16 | M      | 7534586798 | Jaipur     | B+          |      
 
 
 - Table 2: (doctor_details)
@@ -58,7 +59,7 @@ Tables Used 	-	patient_details, doctor_details, appointment, rooms
 | 113 | Dr. Shukla | 45 | 8756493756 | General Surgeon | MBBS MPhil MChir |
 | 114 | Dr. Singh | 37 | 8564789456 | Ayurveda | Bachelor of Ayurvedic Medicine |
 | 115 | Dr. Amit | 38 | 8452378940 | Cardiologists | MBBS MPhil MD D.O |
-| 116 | Dr. Shyam | 41 | 7456328975 | Neurologists | MBBS MPhil DO |
+| 116 | Dr. Shyam | 41 | 7456328975 | Neurologists | MBBS MPhil DO |           
 
 
 # Dependencies:
@@ -74,7 +75,7 @@ Tables Used 	-	patient_details, doctor_details, appointment, rooms
 | 7  | pyglet			| display different font style 		|
 | 8  | Evogria.otf		| font style 						|
 | 9  | Images 			| 									|
-| 10 | tkcalendar		| display calendar in appointment   |
+| 10 | tkcalendar		| display calendar in appointment   |          
 
 
 # System Used
