@@ -62,7 +62,7 @@ Tables Used 	-	patient_details, doctor_details, appointment, rooms
 | 116 | Dr. Shyam | 41 | 7456328975 | Neurologists | MBBS MPhil DO |           
 
 
-# Dependencies:
+# Dependencies
 
 | No.| Library			| Remark							|
 |:---:|:----------------|:----------------------------------|
