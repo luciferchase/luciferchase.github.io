@@ -122,7 +122,7 @@ tag_archive:
   path: /tags/
 
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
     tracking_id: "G-XYMV3Q60GQ"
     anonymize_ip: false
