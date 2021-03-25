@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Chase Hospitals
 url: "https://luciferchase.github.io"
-logo: "/assets/images/website-logo.png"
+logo: "/assets/images/favicon.png"
 email: luciferchase@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   This is a GUI based python connectivity project on Hospital Management. The front-end is made using
@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Lucifer Chase"
-  avatar : "/assets/images/bio-photo-2.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hola, I am Lucifer Chase, I am 17 year old. I like messing with computer and reading books."
   links:
     - label: "Website"
