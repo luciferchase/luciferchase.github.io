@@ -1,5 +1,0 @@
----
-permalink: /screenshots/
-title: "Screenshots"
----
-

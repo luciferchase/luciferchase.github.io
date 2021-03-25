@@ -1,10 +1,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Description"
-    url: /description/
-  - title: "Screenshots"
-    url: /screenshots/
+  - title: "Working"
+    url: /working/
+  - title: "Features"
+    url: /features/
   - title: "Installation"
     url: /installation/
   - title: "Developers"
