@@ -15,7 +15,7 @@ feature_row_about:
   - image_path: assets/images/python-connectivity-mysql.jpg
     alt: "About"
     title: "About the project"
-    excerpt: "Read what this project is all about."
+    excerpt: "This is a GUI based Python connectivity project on Hospital Management. The front-end is made using Tkinter and the back-end is managed by MySQL. This project was made for our final year CBSE practicals by Udit Pati and Robin Vats"
     url: "/chase-hospitals/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -23,7 +23,7 @@ feature_row_features:
   - image_path: /assets/images/features.jpg
     alt: "Features"
     title: "See Features"
-    excerpt: "See features of this project with plenty of screenshots."
+    excerpt: "Talking about the features of this Hospital Management System, this project is aimed for a completely computerised management of our fictional hospital **Chase Hospitals**. A patient can register themselves, view their details and modify their details as well. They can see the Details of Doctors, view the Services offered by the hospital. They can also make an appointment to a particular doctor."
     url: "/chase-hospitals/features/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -31,7 +31,7 @@ feature_row_working:
   - image_path: /assets/images/inner-working.jpg
     alt: "Working"
     title: "Working Description"
-    excerpt: 'Read in detail, how I made this project. See the problems that I faced and their subsequent solutions.'
+    excerpt: "This project took pretty long. I didn't knew much about Tkinter so it was pretty much hands-on learning only. Still pretty much statisfied with the end result. My problems and solutions as well as working description are discussed in details here."
     url: "/chase-hospitals/working/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -39,7 +39,7 @@ feature_row_installation:
   - image_path: /assets/images/download.jpg
     alt: "Download"
     title: "Download Project"
-    excerpt: "Download this project and run it in your local computer."
+    excerpt: "There are numerous ways to install and run this project in your local computer. The easiest is to just download its zip file and unzip. However if you know git clone this repo (and make sure to leave a star) and run in your local computer."
     url: "/chase-hospitals/installation/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -47,7 +47,7 @@ feature_row_developers:
   - image_path: /assets/images/developers.jpg
     alt: "Lucifer Chase"
     title: "Developers"
-    excerpt: "Hola, that's me :wink:"
+    excerpt: "This project is created by **Udit Pati** and **Robin Vats** as part of their 12th CS project 2020 - 2021, under the able and very helpful guidance of PGT Mr. ML Meena Sir, Kendriya Vidyalaya No. 2 Delhi Cantt."
     url: "/chase-hospitals/installation/"
     btn_label: "Read More"
     btn_class: "btn--primary"
