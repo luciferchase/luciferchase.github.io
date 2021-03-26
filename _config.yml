@@ -78,7 +78,7 @@ author:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
-
+  
 footer:
   links:
     # - label: "Twitter"
@@ -132,3 +132,5 @@ analytics:
   google:
     tracking_id: "G-XYMV3Q60GQ"
     anonymize_ip: false
+
+og_image: /assets/images/logo-2.jpg
