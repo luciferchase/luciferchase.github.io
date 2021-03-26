@@ -11,7 +11,7 @@ tags:
 
 Read my initial problems and subsequent ideas to tackle those problems. A detailed description of the basic structure of main file is given here.
 
-# Initial Brainstorm
+## Initial Brainstorm
 
 We were required to make a python project which solves a real world problem. It must connect to a MySQL database and maintain some kind of record.
 
@@ -45,7 +45,7 @@ This was our hack to make a responsive sidebar. Yes, it is very crude but hey, a
 
 After deciding this we quickly jot down ideas for buttons and what they would implement. Initially there was to be an Admin block too however due to shortage of time and other commitments we were not able to implement that and scraped that idea.
 
-# Basic Structure 
+## Basic Structure 
 
 The main file is divided into three parts. 
 
