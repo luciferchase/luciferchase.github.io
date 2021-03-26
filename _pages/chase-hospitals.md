@@ -48,7 +48,7 @@ feature_row_developers:
     alt: "Lucifer Chase"
     title: "Developers"
     excerpt: "This project is created by **Udit Pati** and **Robin Vats** as part of their 12th CS project 2020 - 2021, under the able and very helpful guidance of PGT Mr. ML Meena Sir, Kendriya Vidyalaya No. 2 Delhi Cantt."
-    url: "/chase-hospitals/installation/"
+    url: "/chase-hospitals/developers/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

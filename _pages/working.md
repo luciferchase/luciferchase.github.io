@@ -30,7 +30,7 @@ Overall it was a very fun project. I certainly learned a lot. This website is to
 Database Used 	- 	chase_hospitals      
 Tables Used 	-	patient_details, doctor_details, appointment, rooms
 
-- Table 1: (patient_details)
+### Table 1: patient_details
 
 | pid       | name                    | age | gender | contact    | address    | blood_group |
 |:---------:|:-----------------------:|:---:|:------:|:----------:|:----------:|:-----------:|
@@ -40,7 +40,7 @@ Tables Used 	-	patient_details, doctor_details, appointment, rooms
 | 313570104 | Mr. Aditya Manas        |  16 | M      | 7534586798 | Jaipur     | B+          |      
 
 
-- Table 2: (doctor_details)
+### Table 2: doctor_details
 
 | did | name | age | contact | specialisation | qualification |
 |:---:|:----:|:---:|:-------:|:--------------:|:-------------:|

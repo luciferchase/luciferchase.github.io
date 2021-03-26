@@ -33,4 +33,4 @@ To see detailed features of the project checkout [Features](/chase-hospitals/fea
 
 ![modify details](/assets/Screenshots/modify_details.jpg)
 
-Much and more :smile:
+Much and more :whale:
