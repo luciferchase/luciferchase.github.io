@@ -1,6 +1,8 @@
 ---
 permalink: /developers/
 title: "Developers"
+toc: false
+author_profile: false
 ---
 
 ## Lucifer Chase (Udit Pati)

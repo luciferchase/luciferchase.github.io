@@ -1,9 +1,6 @@
 ---
 permalink: /features/
 title: "Features"
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
 ---
 
 I have made a short video explaining all the features of this project. You can view it [here](https://youtu.be/Z7PExj_v-ZU) (and make sure to like the video :sparkling_heart:)       

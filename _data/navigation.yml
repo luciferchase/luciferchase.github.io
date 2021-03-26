@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /chase-hospitals/
   - title: "About"
     url: /about/
   - title: "Working"

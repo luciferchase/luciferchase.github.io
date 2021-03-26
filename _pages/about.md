@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-![logo](/assets/images/python_connectivity_mysql.jpg) 
+![logo](/assets/images/python-connectivity-mysql.jpg) 
 
 
 # Chase Hospitals
