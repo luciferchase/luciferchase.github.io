@@ -2,7 +2,8 @@
 title: "Design and Structure"
 last_modified_at: 2021-03-26
 categories:
-  - Chase Hospitals
+  - blog
+  - chase-hospitals
 tags:
   - Problems and Solutions
   - Inner Working
