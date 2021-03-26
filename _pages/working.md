@@ -1,5 +1,5 @@
 ---
-permalink: /working/
+permalink: /chase-hospitals/working/
 title: "Working"
 ---
 
@@ -10,23 +10,23 @@ This is a gui-based system which provide best solution for future's computerised
 
 Talking about the features of this Hospital Management System, this project is aimed for a completely computerised management of our fictional hospital **Chase Hospitals**. A patient can register themselves, view their details and modify their details as well. They can see the Details of Doctors, view the Services offered by the hospital. They can also make an appointment to a particular doctor.
 
-# Working Description
+## Working Description
 This project took pretty long. I didn't knew much about Tkinter so it was pretty much hands-on learning only. Still pretty much statisfied with the end result. My problems and solutions as well as working description are discussed in details here:
 
-- [Design and Structure](/blog/design-and-structure)
-- [Main Window](/blog/main-window)
-- [Backend](/blog/backend)
-- [Registration](/blog/registration)
-- [Patient Details](/blog/patient-details)
-- [Appointment](/blog/appointment)
+- [Design and Structure](/blog/chase-hospitals/design-and-structure)
+- [Main Window](/blog/chase-hospitals/main-window)
+- [Backend](/blog/chase-hospitals/backend)
+- [Registration](/blog/chase-hospitals/registration)
+- [Patient Details](/blog/chase-hospitals/patient-details)
+- [Appointment](/blog/chase-hospitals/appointment)
 - [Modify Details](/blog/modify-details)
-- [Doctor Details and Services Offered](/blog/doctor-details-and-services-offered)
+- [Doctor Details and Services Offered](/blog/chase-hospitals/doctor-details-and-services-offered)
 
 Overall it was a very fun project. I certainly learned a lot. This website is to guide future students so that they won't repeat the same mistakes that I did.
 
 **Pages under construction**
 
-# Default Data
+### Default Data
 Database Used 	- 	chase_hospitals      
 Tables Used 	-	patient_details, doctor_details, appointment, rooms
 
@@ -62,7 +62,7 @@ Tables Used 	-	patient_details, doctor_details, appointment, rooms
 | 116 | Dr. Shyam | 41 | 7456328975 | Neurologists | MBBS MPhil DO |           
 
 
-# Dependencies
+### Dependencies
 
 | No.| Library			| Remark							|
 |:---:|:----------------|:----------------------------------|
@@ -78,7 +78,7 @@ Tables Used 	-	patient_details, doctor_details, appointment, rooms
 | 10 | tkcalendar		| display calendar in appointment   |          
 
 
-# System Used
+### System Used
 
 | No | System Used                               |
 |:---:|:-----------------------------------------|

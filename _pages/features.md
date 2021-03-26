@@ -1,5 +1,5 @@
 ---
-permalink: /features/
+permalink: /chase-hospitals/features/
 title: "Features"
 ---
 

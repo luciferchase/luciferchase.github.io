@@ -1,11 +1,11 @@
 main:
   - title: "About"
-    url: /about/
+    url: /chase-hospitals/about/
   - title: "Working"
-    url: /working/
+    url: /chase-hospitals/working/
   - title: "Features"
-    url: /features/
+    url: /chase-hospitals/features/
   - title: "Installation"
-    url: /installation/
+    url: /chase-hospitals/installation/
   - title: "Developers"
     url: /developers/

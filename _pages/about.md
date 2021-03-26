@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /chase-hospitals/about/
 title: "About"
 ---
 
@@ -16,7 +16,7 @@ This project is created by **Udit Pati** and **Robin Vats** as part of their 12t
 All codes in this file is completely written by Udit Pati and Robin Vats only. All images and icons are used under CC license.
 
 ## Screenshots
-To see detailed features of the project checkout [Features](/features/)
+To see detailed features of the project checkout [Features](/chase-hospitals/features/)
 - **Main Window**     
 
 ![main window](/assets/Screenshots/main_window.jpg)

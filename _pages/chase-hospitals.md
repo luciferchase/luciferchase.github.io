@@ -16,7 +16,7 @@ feature_row_about:
     alt: "About"
     title: "About the project"
     excerpt: "Read what this project is all about."
-    url: "/about/"
+    url: "/chase-hospitals/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_features:
@@ -24,7 +24,7 @@ feature_row_features:
     alt: "Features"
     title: "See Features"
     excerpt: "See features of this project with plenty of screenshots."
-    url: "/features/"
+    url: "/chase-hospitals/features/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_working:
@@ -32,7 +32,7 @@ feature_row_working:
     alt: "Working"
     title: "Working Description"
     excerpt: 'Read in detail, how I made this project. See the problems that I faced and their subsequent solutions.'
-    url: "/working/"
+    url: "/chase-hospitals/working/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_installation:
@@ -40,7 +40,7 @@ feature_row_installation:
     alt: "Download"
     title: "Download Project"
     excerpt: "Download this project and run it in your local computer."
-    url: "/installation/"
+    url: "/chase-hospitals/installation/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_developers:
@@ -48,7 +48,7 @@ feature_row_developers:
     alt: "Lucifer Chase"
     title: "Developers"
     excerpt: "Hola, that's me :wink:"
-    url: "/installation/"
+    url: "/chase-hospitals/installation/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

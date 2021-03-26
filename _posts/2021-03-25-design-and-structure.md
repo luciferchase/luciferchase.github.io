@@ -1,8 +1,8 @@
 ---
 title: "Design and Structure"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-26
 categories:
-  - Blog
+  - Chase Hospitals
 tags:
   - Problems and Solutions
   - Inner Working
@@ -34,7 +34,7 @@ This project was simply brilliant. I was completely surprised that you can do th
 
 This project was completely based on Tkinter. This project actually gave me the idea for Hospital Management. Seeing this I decided to make my project completely using Tkinter only
 
-### Initial Idea
+#### Initial Idea
 
 After deciding our theme, both of us one day met on skype (covid times :pensive:). I opened Whiteboard and quickly drew out whatever came to my mind. In retrospection this part was extremely important as it gave us a clear path to implement.
 
