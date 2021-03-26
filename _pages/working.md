@@ -26,7 +26,7 @@ Overall it was a very fun project. I certainly learned a lot. This website is to
 
 **Pages under construction**
 
-### Default Data
+## Default Data
 Database Used 	- 	chase_hospitals      
 Tables Used 	-	patient_details, doctor_details, appointment, rooms
 
@@ -62,7 +62,7 @@ Tables Used 	-	patient_details, doctor_details, appointment, rooms
 | 116 | Dr. Shyam | 41 | 7456328975 | Neurologists | MBBS MPhil DO |           
 
 
-### Dependencies
+## Dependencies
 
 | No.| Library			| Remark							|
 |:---:|:----------------|:----------------------------------|
@@ -78,7 +78,7 @@ Tables Used 	-	patient_details, doctor_details, appointment, rooms
 | 10 | tkcalendar		| display calendar in appointment   |          
 
 
-### System Used
+## System Used
 
 | No | System Used                               |
 |:---:|:-----------------------------------------|
