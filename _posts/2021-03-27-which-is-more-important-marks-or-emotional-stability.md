@@ -9,6 +9,7 @@ toc: false
 header:
   overlay_image: /assets/images/study.jpg
   overlay_filter: 0.75
+  teaser: /assets/images/study.jpg
 excerpt: All of us wants to get good marks in our exams. Parents push their students to achieve excellence. But is this the only goal in life? What about the emotional stability of today's students? What about their mental health?
 ---
 
