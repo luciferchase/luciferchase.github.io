@@ -9,3 +9,57 @@ main:
     url: /chase-hospitals/installation/
   - title: "Developers"
     url: /developers/
+
+chase-hospitals:
+  - title: "Homepage"
+    url: /chase-hospitals/
+  - title: "About the project"
+    url: "/chase-hospitals/about"
+    children:
+      - title: "About"
+        url: /chase-hospitals/about/#chase-hospitals
+      - title: "Developers"
+        url: /chase-hospitals/about/#developers
+      - title: "Screenshots"
+        url: /chase-hospitals/about/#screenshots
+  - title: "Working Description"
+    url: "/chase-hospitals/working"
+    children:
+      - title: "Detailed posts"
+        url: "/chase-hospitals/working/#working-description"
+      - title: "Default Data"
+        url: "/chase-hospitals/working/#default-data"
+      - title: "Dependencies"
+        url: "/chase-hospitals/working/#dependencies"
+      - title: "System Used"
+        url: "/chase-hospitals/working/#system-used"
+  - title: "Features of the project"
+    url: "/chase-hospitals/features"
+    children:
+      - title: "Connecting to Database"
+        url: "/chase-hospitals/features/#connecting-to-database"
+      - title: "Main Window"
+        url: "/chase-hospitals/features/#main-window"
+      - title: "Registration"
+        url: "/chase-hospitals/features/#registration"
+      - title: "Appointment"
+        url: "/chase-hospitals/features/#appointment"
+      - title: "Patient Details"
+        url: "/chase-hospitals/features/#patient-details"
+      - title: "Modify Details"
+        url: "/chase-hospitals/features/#modify-details"
+      - title: "Doctor Details"
+        url: "/chase-hospitals/features/#doctor-details"
+      - title: "Services Offered"
+        url: "/chase-hospitals/features/#services-offered"
+      - title: "About Us"
+        url: "/chase-hospitals/features/#about-us"
+  - title: "Installation"
+    url: "/chase-hospitals/installation"
+    children:
+      - title: "Download ZIP"
+        url: "/chase-hospitals/installation/#download-zip"
+      - title: "Clone it from GitHub"
+        url: "/chase-hospitals/installation/#clone-it-from-github"
+  - title: "Developers"
+    url: "/developers"

@@ -1,6 +1,9 @@
 ---
 permalink: /chase-hospitals/installation/
 title: "Installation"
+author_profile: false
+sidebar:
+  nav: "chase-hospitals"
 ---
 
 ## Download Code

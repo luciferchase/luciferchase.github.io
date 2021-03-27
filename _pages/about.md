@@ -1,6 +1,9 @@
 ---
 permalink: /chase-hospitals/about/
 title: "About"
+author_profile: false
+sidebar:
+  nav: "chase-hospitals"
 ---
 
 ![logo](/assets/images/python-connectivity-mysql.jpg) 

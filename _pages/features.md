@@ -1,6 +1,9 @@
 ---
 permalink: /chase-hospitals/features/
 title: "Features"
+author_profile: false
+sidebar:
+  nav: "chase-hospitals"
 ---
 
 I have made a short video explaining all the features of this project. You can view it [here](https://youtu.be/Z7PExj_v-ZU) (and make sure to like the video :sparkling_heart:)       
@@ -12,7 +15,7 @@ Every window/page has voice feedback so its litreally someone talking and explai
 
 As soon as you enter the main window, you are asked to fill your MySQL username and password. 
 By-default your username is taken as root, however you can change it. 
-
+	
 ![mysql-username](/assets/Screenshots/mysql_username.jpg)
 
 ![mysql-password](/assets/Screenshots/mysql_password.jpg)

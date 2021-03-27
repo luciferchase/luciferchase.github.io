@@ -1,6 +1,9 @@
 ---
 permalink: /chase-hospitals/working/
 title: "Working"
+author_profile: false
+sidebar:
+  nav: "chase-hospitals"
 ---
 
 ![logo](/assets/images/logo-2.jpg)     
