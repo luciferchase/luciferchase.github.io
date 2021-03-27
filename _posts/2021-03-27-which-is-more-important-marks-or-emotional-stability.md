@@ -1,5 +1,5 @@
-------
-title: Which is more important: Marks or Emotional Stability?
+---
+title: Which is more important - Marks or Emotional Stability?
 categories:
   - blog
   - thoughts
