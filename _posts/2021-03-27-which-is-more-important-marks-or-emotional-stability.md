@@ -9,9 +9,10 @@ toc: false
 header:
   overlay_image: /assets/images/study.jpg
   overlay_filter: 0.5
+excerpt: All of us wants to get good marks in our exams. Parents push their students to achieve excellence. But is this the only goal in life? What about the emotional stability of today's students? What about their mental health?
 ---
 
-“I am a student, selfish, impatient and a little insecure. I make mistakes, I am out of control & at times hard to handle.
+>"I am a student, selfish, impatient and a little insecure. I make mistakes, I am out of control & at times hard to handle."
 
 **Introduction** : Very Good morning one and all present here. Admirable Judges, Esteemed distinguished guests and all my beneficiary students present here. I am Lucifer Chase presenting today a very inspirable, debatable, young mind ignited and burning topic of the time - to choose between academics Marks vs Emotional stability.
 
