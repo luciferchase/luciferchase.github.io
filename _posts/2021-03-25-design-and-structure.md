@@ -5,9 +5,8 @@ categories:
   - blog
   - chase-hospitals
 tags:
-  - Problems and Solutions
-  - Inner Working
-  - Chase Hospital
+  - Tkinter
+  - Chase Hospitals
 ---
 
 Read my initial problems and subsequent ideas to tackle those problems. A detailed description of the basic structure of main file is given here.

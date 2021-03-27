@@ -34,7 +34,7 @@ repository: "luciferchase/luciferchase.github.io"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: blog/page:num/
 timezone: Asia/Calcutta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -121,7 +121,7 @@ defaults:
       toc: true
       toc_label: "Table of Contents"
       # toc_icon: "cog"
-
+    
 category_archive:
   type: liquid
   path: /categories/
