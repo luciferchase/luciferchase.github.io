@@ -8,7 +8,7 @@ tags:
 toc: false
 header:
   overlay_image: /assets/images/vs.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.75
 ---
 
 Feminism isn't about hating boys. It is about eliminating the gender stereotypes. "A gender-equal society would be one where the word 'gender' does not exist: where everyone can be themselves."
@@ -25,6 +25,9 @@ Boys are critically judged and assessed - by themselves, by their peers, by thei
 
 We must empower Boys and Girls. Of course, not in the conventional sense by giving boys more power over girls or favouring girls more. Rather, by empowering boys to challenge prevailing norms and change their behaviours. Girl empowerment must not mean not letting girls play with dolls. It simply means that dolls are just one of the many things girls can play with. Similarly, it must not scoff at boys who play with dolls. This is logical even though it has not been the prevailing approach. Gender is a “system” and both girls and boys are integral parts of this system. If we want to see meaningful change, both boys and girls are implicated. It is not enough to enlighten and empower girls and expect boys to follow.
 
-**Conclusion**: Let’s change our dialogue. Let’s change our thought process. Let’s change our behaviour. Let’s build up our girls and our boys, not instead of our girls at the expense of our boys. Let’s just treat everyone fairly."We have to address the misconception that empowering boys means you have to disempower girls or vice versa. That's a myth. It's a misconception. Empowering one empowers all. Empowering girls empower boys, children, families and ultimately the entire society. At last I can say - Feminism is not about making girls strong, girls in our present society are already strong. It is about changing the way the world perceives their strength. As Gloria Steinem says, “I’m glad we’ve begun to raise our daughters more like our sons, but it will never work until we raise our sons more like our daughters.”
+**Conclusion**: Let’s change our dialogue. Let’s change our thought process. Let’s change our behaviour. Let’s build up our girls and our boys, not instead of our girls at the expense of our boys. Let’s just treat everyone fairly."We have to address the misconception that empowering boys means you have to disempower girls or vice versa. That's a myth. It's a misconception. Empowering one empowers all. Empowering girls empower boys, children, families and ultimately the entire society. At last I can say - Feminism is not about making girls strong, girls in our present society are already strong. It is about changing the way the world perceives their strength. 
+
+As Gloria Steinem says, 
+> “I’m glad we’ve begun to raise our daughters more like our sons, but it will never work until we raise our sons more like our daughters.”
 
 Thank you.

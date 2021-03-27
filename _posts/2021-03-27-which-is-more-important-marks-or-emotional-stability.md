@@ -8,7 +8,7 @@ tags:
 toc: false
 header:
   overlay_image: /assets/images/study.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.75
 excerpt: All of us wants to get good marks in our exams. Parents push their students to achieve excellence. But is this the only goal in life? What about the emotional stability of today's students? What about their mental health?
 ---
 
@@ -28,6 +28,6 @@ Today the world has become very competitive. Competition is everywhere. It is in
 
 Better marks in school now means better emotional stability as an adult when you don't have to worry about finding a job, or feeding your family, or having enough money to buy gas so you can drive to school or the office. But if you do not succeed well in school and college then most of you will lead a very frustrated and bad life.
 
-**Conclusion** : For me, presently both Marks and Emotional stability is utmost important. But if I was given a choice then I would wholeheartedly accept marks because right I am just a student. With better marks I can easily be emotionally stable but only emotional stability cannot help me. At the last I am sure, putting hard work on studies with healthy emotional stability I can get Full Marks in terms of Knowledge based in my future endeavours to make myself, my family, my school and my nation proud. Thank you.
+**Conclusion** : For me, presently both Marks and Emotional stability is utmost important. But if I was given a choice then I would wholeheartedly accept marks because right I am just a student. With better marks I can easily be emotionally stable but only emotional stability cannot help me. At the last I am sure, putting hard work on studies with healthy emotional stability I can get Full Marks in terms of Knowledge based in my future endeavours to make myself, my family, my school and my nation proud.
 
 Thank you.
