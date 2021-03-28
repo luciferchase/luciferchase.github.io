@@ -10,5 +10,5 @@ header:
   teaser: /assets/art/sapphire-moonlight.jpg
 ---
 
-![sapphire-moonlight](/assets/art/saphhire-moonlight.jpg)
+![sapphire-moonlight](/assets/art/sapphire-moonlight.jpg)
 {: .full}
