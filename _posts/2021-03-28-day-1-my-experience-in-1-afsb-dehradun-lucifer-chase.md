@@ -15,7 +15,7 @@ header:
 excerpt: Day - 1. Read my preparation and my experience in 1-AFSB Dehradun. I was screened-in but unfortunately not-recommended. Read what mistakes I did so that you won't.
 ---
 
-This blog owing to its length is divided into 5 posts, each in detail description of my 5 day experience in the SSB. After reading this checkout the rest of the Posts too [here](/blog/ssb-stories){: .btn .btn--inverse}
+This blog owing to its length is divided into 5 posts, each in detail description of my 5 day experience in the SSB. After reading this checkout the rest of the Posts too [SSB Stories](/blog/ssb-stories){: .btn .btn--inverse}
 
 > "Recommended till not recommended!"        
 > \- Chest No. 1
@@ -208,6 +208,6 @@ After our brief introduction, we did a lot of mastis. The food was well, bad, bu
 
 So that's how my first day in 1-AFSB went by. Do read about the rest of the experience [here](/blog/ssb-stories){: .btn .btn--inverse}
 
-Checkout - [Day 2](/blog/ssb-stories/day-2-my-experience-in-1-afsb-dehradun)
+Checkout - [Day 2](/blog/ssb-stories/day-2-my-experience-in-1-afsb-dehradun){: .btn .btn--inverse}
 
 Peace.
