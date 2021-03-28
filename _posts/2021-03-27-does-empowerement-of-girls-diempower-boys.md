@@ -11,6 +11,7 @@ header:
   overlay_filter: 0.75
   teaser: /assets/images/vs.jpg
 ---
+
 Feminism isn't about hating boys. It is about eliminating the gender stereotypes. "A gender-equal society would be one where the word 'gender' does not exist: where everyone can be themselves."
 
 > "When God created man and woman, he was thinking, 'Who shall I give the power to, to give birth to the next human being?' And God chose woman. And this is the big evidence that girls are powerful." But what about boys? Are they not important? Are they not worthy? Will anyone ever take a stand for boys?

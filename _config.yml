@@ -79,6 +79,12 @@ author:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+    - label: "Email"
+      icon: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:luciferchase@pm.me"
 
 footer:
   links:
@@ -140,4 +146,5 @@ analytics:
     tracking_id: "G-XYMV3Q60GQ"
     anonymize_ip: false
 
-og_image: /assets/images/logo-2.jpg
+og_image: /assets/images/logo-5.jpg
+teaser: /assets/images/logo-3.jpeg

@@ -1,14 +1,14 @@
 main:
+  - title: "Projects"
+    url: /chase-hospitals/
+  - title: "Posts"
+    url: /blog/
+  - title: "Art"
+    url: /blog/art/
+  - title: "GitHub"
+    url: /github/
   - title: "About"
-    url: /chase-hospitals/about/
-  - title: "Working"
-    url: /chase-hospitals/working/
-  - title: "Features"
-    url: /chase-hospitals/features/
-  - title: "Installation"
-    url: /chase-hospitals/installation/
-  - title: "Developers"
-    url: /developers/
+    url: /about/
 
 chase-hospitals:
   - title: "Homepage"
@@ -62,4 +62,4 @@ chase-hospitals:
       - title: "Clone it from GitHub"
         url: "/chase-hospitals/installation/#clone-it-from-github"
   - title: "Developers"
-    url: "/developers"
+    url: "/about/"
