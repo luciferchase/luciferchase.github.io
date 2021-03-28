@@ -206,7 +206,7 @@ In our group in increasing order of their Chest No.:
 
 After our brief introduction, we did a lot of mastis. The food was well, bad, but considering it to be our first day, we thought maybe later on they would make better. That was bullshit.
 
-So that's how my first day in 1-AFSB went by. Do read about the rest of the experience [here](/blog/ssb-stories){: .btn .btn--inverse}
+So that's how my first day in 1-AFSB went by. Do read about the rest of the experience [SSB Stories](/blog/ssb-stories){: .btn .btn--inverse}
 
 Checkout - [Day 2](/blog/ssb-stories/day-2-my-experience-in-1-afsb-dehradun){: .btn .btn--inverse}
 
