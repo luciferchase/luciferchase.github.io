@@ -19,9 +19,8 @@ url: "https://luciferchase.github.io"
 logo: "/assets/images/favicon-4.png"
 email: luciferchase@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a GUI based python connectivity project on Hospital Management. The front-end is made using
-  Tkinter while the back-end is managed by MySQL. It also has Text-to-Speech feature.
-  Project is created by Udit Pati aka Lucifer Chase and Robin Vats under the guidence of Mr. ML Meena Sir.
+  Personal Website of just another normal 17 year old boy who likes to waste time doing unnecessary 
+  project on the Internet instead of studying.
 # twitter_username: username
 github_username: luciferchase
 minimal_mistakes_skin: dark
@@ -146,5 +145,5 @@ analytics:
     tracking_id: "G-XYMV3Q60GQ"
     anonymize_ip: false
 
-og_image: /assets/images/logo-5.jpg
+og_image: /assets/images/logo-5.jpeg
 teaser: /assets/images/logo-3.jpg
