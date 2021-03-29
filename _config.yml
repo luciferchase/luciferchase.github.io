@@ -140,10 +140,10 @@ defaults:
       
 # Comments
 comments:
-  provider: "staticman_v2"
-  staticman:
-    branch: master
-    endpoint: "https://blogcomments-luciferchase.herokuapp.com/v3/entry/github/luciferchase/blog_comments/main/comments"
+  provider: "utterances"
+  utterances:
+    theme: "github-dark" # "github-dark"
+    issue_term: "pathname"
 
 # Archive
 category_archive:
