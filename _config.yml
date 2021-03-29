@@ -140,9 +140,10 @@ defaults:
       
 # Comments
 comments:
-  provider: "disqus"
-  disqus:
-    shortname: "https-luciferchase-github-io"
+  provider: "staticman_v3"
+  staticman:
+    branch: master
+    endpoint: "https://staticman-luciferchase.herokuapp.com/v3/entry/github/luciferchase.github.io/master/comments"
 
 # Archive
 category_archive:
