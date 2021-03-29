@@ -143,7 +143,7 @@ comments:
   provider: "staticman_v2"
   staticman:
     branch: master
-    endpoint: "https://staticman-luciferchase.herokuapp.com/v3/entry/github/"
+    endpoint: "https://staticman-luciferchase.herokuapp.com/v3/entry/github/luciferchase/luciferchase.github.io/master/comments"
 
 # Archive
 category_archive:
