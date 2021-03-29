@@ -13,6 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# Site Settings
 title: Chase Inc.
 developer: Lucifer Chase
 url: "https://luciferchase.github.io"
@@ -22,6 +24,8 @@ email: luciferchase@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   Personal Website of just another normal 17 year old boy who likes to waste time doing unnecessary 
   project on the Internet instead of studying.
+
+# Social
 # twitter_username: username
 github_username: luciferchase
 minimal_mistakes_skin: dark
@@ -31,9 +35,10 @@ search: true
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 repository: "luciferchase/luciferchase.github.io"
+
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
+paginate: 7 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Calcutta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -62,6 +67,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
+# Site Autho
 author:
   name   : "Lucifer Chase"
   avatar : "/assets/images/bio-photo-luciferchase.jpg"
@@ -86,6 +92,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:luciferchase@pm.me"
 
+# Footer
 footer:
   links:
     # - label: "Twitter"
@@ -98,8 +105,9 @@ footer:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
     - atom_feed: 
-      hide: true
+        hide: true
 
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -117,6 +125,7 @@ defaults:
       toc_label: "Table of Contents"
       # toc_icon: "cog"
       permalink: /:categories/:title
+  
   # _pages
   - scope:
       path: "_pages"
@@ -127,12 +136,15 @@ defaults:
       toc: true
       toc_label: "Table of Contents"
       # toc_icon: "cog"
-
+      share: true
+      
+# Comments
 comments:
   provider: "disqus"
   disqus:
     shortname: "https-luciferchase-github-io"
 
+# Archive
 category_archive:
   type: liquid
   path: /categories/
@@ -140,11 +152,13 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# Analytics
 analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-XYMV3Q60GQ"
     anonymize_ip: false
 
+# SEO
 og_image: /assets/images/logo-3.jpg
 teaser: /assets/images/logo-3.jpg

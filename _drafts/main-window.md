@@ -8,6 +8,7 @@ tags:
   - Frontend
   - Tkinter
   - Chase Hospitals
+hide: true
 ---
 
 In this post I will explain about the main window. Read how I created the color scheme, logo, design everythin for my main window.

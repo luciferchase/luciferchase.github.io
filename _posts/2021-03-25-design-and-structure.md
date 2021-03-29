@@ -7,6 +7,7 @@ categories:
 tags:
   - Tkinter
   - Chase Hospitals
+feature_post: true
 ---
 
 Read my initial problems and subsequent ideas to tackle those problems. A detailed description of the basic structure of main file is given here.

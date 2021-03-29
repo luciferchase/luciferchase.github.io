@@ -8,6 +8,22 @@ layout: archive
 <p> Personal Website of just another normal 17 year old boy who likes to waste time doing unnecessary project on the Internet instead of studying. <br>
 Peace - Lucifer Chase </p>
 
+<h2> Featured Posts </h2>
+
+{%- assign fp = site.posts | where: 'featured_post', true -%}
+{%- for fp in site.posts -%}
+  {{- post.title -}}
+{%- endfor -%}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in fp %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+<br>
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}

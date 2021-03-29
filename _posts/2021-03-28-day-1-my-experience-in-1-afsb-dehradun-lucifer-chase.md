@@ -13,6 +13,7 @@ header:
   overlay_filter: 0.5
   teaser: /assets/images/ssb.jpg
 excerpt: Day - 1. Read my preparation and my experience in 1-AFSB Dehradun. I was screened-in but unfortunately not-recommended. Read what mistakes I did so that you won't.
+featured_post: true
 ---
 
 This blog owing to its length is divided into 5 posts, each in detail description of my 5 day experience in the SSB. After reading this checkout the rest of the Posts too [SSB Stories](/blog/ssb-stories){: .btn .btn--inverse}

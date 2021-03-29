@@ -11,6 +11,7 @@ header:
   overlay_filter: 0.75
   teaser: /assets/images/study.jpg
 excerpt: All of us wants to get good marks in our exams. Parents push their students to achieve excellence. But is this the only goal in life? What about the emotional stability of today's students? What about their mental health?
+featured_post: true
 ---
 
 >"I am a student, selfish, impatient and a little insecure. I make mistakes, I am out of control & at times hard to handle."
