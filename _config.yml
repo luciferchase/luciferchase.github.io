@@ -140,7 +140,7 @@ defaults:
       
 # Comments
 comments:
-  provider: "staticman_v3"
+  provider: "staticman_v2"
   staticman:
     branch: master
     endpoint: "https://staticman-luciferchase.herokuapp.com/v3/entry/github/luciferchase.github.io/master/comments"
