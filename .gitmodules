@@ -1,4 +1,0 @@
-[submodule "data/comments"]
-	path = data/comments
-	url = https://github.com/luciferchase/blog_comments.git
-	branch = main
