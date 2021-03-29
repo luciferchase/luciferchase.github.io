@@ -142,7 +142,7 @@ defaults:
 comments:
   provider: "utterances"
   utterances:
-    theme: "github-dark" # "github-dark"
+    theme: "dark-blue" # "github-dark"
     issue_term: "pathname"
 
 # Archive
