@@ -1,4 +1,5 @@
 _site
 .sass-cache
 .jekyll-metadata
-Gemfile.lock
+# Gemfile.lock
+staticman-luciferchase.2021-03-28.private-key.pem
