@@ -153,12 +153,12 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# Analytics
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-XYMV3Q60GQ"
-    anonymize_ip: false
+# # Analytics
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "G-XYMV3Q60GQ"
+#     anonymize_ip: false
 
 # SEO
 og_image: /assets/images/logo-3.jpg
