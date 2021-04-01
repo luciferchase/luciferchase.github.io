@@ -1,5 +1,6 @@
 ---
 title: My Experience in 4-AFSB Varanasi - Rajat Gupta
+author: Rajat Gupta
 categories:
   - blog
   - ssb-stories    
