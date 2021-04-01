@@ -85,10 +85,12 @@ author:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
-    - label: "Discord"
-      icon: "fab fa-fw fa-discord"
+
+    - label: "Dev.to"
+      icon: "fab fa-dev"
+      url: "https://dev.to/luciferchase"
+
     - label: "Email"
-      icon: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:luciferchase@pm.me"
 

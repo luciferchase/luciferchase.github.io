@@ -2,7 +2,7 @@
 title: Day 1 - My Experience in 1-AFSB Dehradun - Lucifer Chase
 categories:
   - blog
-  - ssb-stories	
+  - ssb-stories    
 tags:
   - SSB
   - Air-Force
@@ -189,21 +189,22 @@ We selected beds according to our preference. Initially all of us were silent an
 Finally Chest No. - 7, from Sainik School, just said out loud Macho (*if you know you know*) and introduced himself. Soon, all of us became kinda free and it felt like we knew each other for years.
 
 In our group in increasing order of their Chest No.:
+
 1. Shashwat Shandilya, from Lucknow
-	- The short boy yet extremely ahhhh shall we say *naughty* :wink:
+   - The short boy yet extremely ahhhh shall we say *naughty* :wink:
 2. Kushal, from Rohtak
-	- The extremely tall boy. The silent one.
+   - The extremely tall boy. The silent one.
 3. Kaushik, from Bihar
-	- From sainik school
+   - From sainik school
 4. Bhuvi, dilli se hai bc
-	- This was just like me man! Our ideas were kinda similar and we became pretty good friends
+   - This was just like me man! Our ideas were kinda similar and we became pretty good friends
 5. *fuck, I don't remember his name*, repeater but still very young so in our group
-	- Dude, this one hell of a piece. I can wrote a whole post how weird this guy was :joy:
+   - Dude, this one hell of a piece. I can wrote a whole post how weird this guy was :joy:
 6. Lol, its me
 7. Sahil, from Sujanpur Tira
-	- From Sainik School, this was the group clown. He was the funniest and liveliest of our group. The guy who couldn't say a word without MC or BC :joy:
-8. *fuck, I don't remember his name also*, from Delhi as well
-	- Son of a Group Capt, was staying in a camp in Delhi where I had gone several times
+   - From Sainik School, this was the group clown. He was the funniest and liveliest of our group. The guy who couldn't say a word without MC or BC :joy:
+8. Pravdeep, from Delhi as well
+   - Son of a Group Capt., was staying in a camp in Delhi where I had gone several times
 
 After our brief introduction, we did a lot of mastis. The food was well, bad, but considering it to be our first day, we thought maybe later on they would make better. That was bullshit.
 

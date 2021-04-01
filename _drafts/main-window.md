@@ -20,7 +20,7 @@ The main window is divided into three parts:
 
 - `top_frame`
 - `left_frame`
-- `righ_frame`
+- `right_frame`
 
 If you don't know how this was done, [Read Here](/blog/chase-hospitals/design-and-structure/#frames){: .btn .btn--inverse}
 
