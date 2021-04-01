@@ -9,7 +9,7 @@ tags:
   - NDA
 toc: True
 header:
-  overlay_image: /assets/images/ssb.jpg
+  overlay_image: /assets/images/ssb.webp
   overlay_filter: 0.5
   teaser: /assets/images/ssb.jpg
 excerpt: Day - 1. Read my preparation and my experience in 1-AFSB Dehradun. I was screened-in but unfortunately not-recommended. Read what mistakes I did so that you won't.
