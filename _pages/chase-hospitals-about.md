@@ -6,7 +6,7 @@ sidebar:
   nav: "chase-hospitals"
 ---
 
-![logo](/assets/images/python-connectivity-mysql.jpg) 
+![banner](/assets/images/python-connectivity-mysql.webp) 
 
 
 # Chase Hospitals

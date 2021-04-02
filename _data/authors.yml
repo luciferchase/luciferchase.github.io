@@ -6,4 +6,7 @@ Rajat Gupta:
     and spread happiness."
     
   avatar: /assets/images/rajat.webp
-  links: "https://instagram.com/ideal_rajat"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/ideal_rajat"

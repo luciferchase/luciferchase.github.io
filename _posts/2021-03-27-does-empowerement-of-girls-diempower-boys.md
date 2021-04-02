@@ -7,9 +7,9 @@ tags:
   - speech
 toc: false
 header:
-  overlay_image: /assets/images/vs.jpg
+  overlay_image: /assets/images/vs.webp
   overlay_filter: 0.75
-  teaser: /assets/images/vs.jpg
+  teaser: /assets/images/vs.webp
 featured_post: true
 ---
 

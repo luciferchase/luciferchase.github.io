@@ -10,9 +10,9 @@ tags:
   - NDA
 toc: True
 header:
-  overlay_image: /assets/images/nda.jpg
+  overlay_image: /assets/images/nda.webp
   overlay_filter: 0.5
-  teaser: /assets/images/nda.jpg
+  teaser: /assets/images/nda.webp
 excerpt: Read Rajat's exciting journey to Varanasi and his experience in screening. Get to how he prepared and what mistakes you should avoid.
 ---
 

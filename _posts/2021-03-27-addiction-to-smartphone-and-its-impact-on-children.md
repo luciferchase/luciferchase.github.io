@@ -7,9 +7,9 @@ tags:
   - speech
 toc: false
 header:
-  overlay_image: /assets/images/smartphone.jpg
+  overlay_image: /assets/images/smartphone.webp
   overlay_filter: 0.75
-  teaser: /assets/images/smartphone.jpg
+  teaser: /assets/images/smartphone.webp
 excerpt: Every time there's a new tool, whether it's the Internet or cell phones or anything else, all these things can be used for good or evil. Technology is neutral; it depends on how it's used.
 ---
 

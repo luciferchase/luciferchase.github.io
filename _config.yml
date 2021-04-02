@@ -82,12 +82,13 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/luciferchase"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/luciferchase"
 
     - label: "Dev.to"
-      icon: "fab fa-dev"
+      icon: "fab fa-fw fa-dev"
       url: "https://dev.to/luciferchase"
 
     - label: "Email"
