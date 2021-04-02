@@ -31,7 +31,7 @@ It should come as no surprise that smartphones and tablets have now replaced bas
 
 - 	 It causes health problems in children :- Scientists have discovered that just 2 minutes of the phone call can alter the electoral activity of the kid’s brain for up to an hour. The radio waves from the mobile penetrate deep into the brain, not just around the ear. The disturbed brain activity could impair children’s learning ability and other behavioural problems. They cause depression and could even affect their mood and concentration in studies. They can cause diseases like cancer, tumour in the brain, as well as hearing impairment in children.  They can also be called a reason for a child's hyperactivity or attention deficiency.
 
-**Conclusion** :  Your cell phone has already replaced the camera, calendar, watch, flash light and your alarm clock. Don’t let it replace your family and child. Every time there's a new tool, whether it's the Internet or cell phones or anything else, all these things can be used for good or evil. Technology is neutral; it depends on how it's used.
+**Conclusion**:  Your cell phone has already replaced the camera, calendar, watch, flash light and your alarm clock. Don’t let it replace your family and child. Every time there's a new tool, whether it's the Internet or cell phones or anything else, all these things can be used for good or evil. Technology is neutral; it depends on how it's used.
 
 > Adoption of modern Technology with time is welcome but not the addiction of technology. The Line should be drawn between your smartphone and your child by you.            
 

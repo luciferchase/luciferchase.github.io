@@ -7,16 +7,17 @@ categories:
 tags:
   - Tkinter
   - Chase Hospitals
+excerpt: Read my initial problems and subsequent ideas to tackle those problems. A detailed description of the basic structure of main file is given here.
 feature_post: true
 ---
 
 Read my initial problems and subsequent ideas to tackle those problems. A detailed description of the basic structure of main file is given here.
 
-## Initial Brainstorm
+# Initial Brainstorm
 
 We were required to make a python project which solves a real world problem. It must connect to a MySQL database and maintain some kind of record.
 
-### Inspiration
+## Inspiration
 
 To get some inspiration I found this pretty cool website which hosts large number of projects.
 [Python Projects](http://python.mykvs.in/uploads/showpapers/testproject.php)
@@ -35,7 +36,7 @@ This project was simply brilliant. I was completely surprised that you can do th
 
 This project was completely based on Tkinter. This project actually gave me the idea for Hospital Management. Seeing this I decided to make my project completely using Tkinter only
 
-#### Initial Idea
+### Initial Idea
 
 After deciding our theme, both of us one day met on Skype (covid times :pensive:). I opened Whiteboard and quickly drew out whatever came to my mind. In retrospection this part was extremely important as it gave us a clear path to implement.
 
@@ -46,7 +47,7 @@ This was our hack to make a responsive sidebar. Yes, it is very crude but hey, a
 
 After deciding this we quickly jot down ideas for buttons and what they would implement. Initially there was to be an Admin block too however due to shortage of time and other commitments we were not able to implement that and scraped that idea.
 
-## Basic Structure
+# Basic Structure
 
 The main file is divided into three parts. 
 
@@ -54,7 +55,7 @@ The main file is divided into three parts.
 - **`main_window()`** - This paints the main window
 - **Backend** - All the backend functions after connecting with database
 
-### Frames
+## Frames
 
 After banging my head on the wall repeatedly and spending hours on the internet, still I was not able to implement how to make three separate partitions in the main window. Then I found out about `frames()`.
 

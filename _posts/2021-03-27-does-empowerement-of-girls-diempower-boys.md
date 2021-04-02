@@ -10,6 +10,7 @@ header:
   overlay_image: /assets/images/vs.webp
   overlay_filter: 0.75
   teaser: /assets/images/vs.webp
+excerpt: Feminism isn't about hating boys. It is about eliminating the gender stereotypes. "A gender-equal society would be one where the word 'gender' is not much relevant, where everyone can be themselves."
 featured_post: true
 ---
 
