@@ -7,7 +7,7 @@ tags:
   - Drawing
 toc: false
 header:
-  teaser: /assets/art/raina.
+  teaser: /assets/art/raina.jpg
 excerpt: Pencil sketch of Suresh Raina by Lucifer Chase.
 ---
 
