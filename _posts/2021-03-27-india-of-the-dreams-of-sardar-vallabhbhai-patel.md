@@ -21,7 +21,11 @@ Vallabhbhai Patel was born in Nadiad, Gujarat, on October 31, 1875. He hailed fr
 
 - United :- Perhaps the greatest service that he did to our country was to unite it.In what was to become Sardar Patel’s most lasting legacy, he took charge of the States Department and was responsible for the integration of 565 princely states into the Union of India.He rewrote India into one single marvellous country. Therefore in his dreams he would have always imagined of a India that was united. He even said that Every citizen of India must remember that he is an Indian and he has every right in this country but with certain duties.
 
-- Independent :-  All his life Patel toiled for only for one thing that India should be Independent.It should not be depended on anyone for anything.Then only it would prospore.In his own words he said and I quote “My only desire is that India should be a good producer and no one should be hungry, shedding tears for food in the country.” He dreamt of an India which could satisfy its own needs without begging anyone. 
+- Independent :- All his life Patel toiled for only for one thing that India should be Independent. It should not be depended on anyone for anything. Then only it would prosper. In his own words he said and I quote,       
+
+> "My only desire is that India should be a good producer and no one should be hungry, shedding tears for food in the country." 
+
+He dreamt of an India which could satisfy its own needs without begging anyone. 
 
 - Economically Stable :- In addition, Sardar Patel was favourable for private enterprises, as opposed to the public sector favoured by Nehru. Self-Reliance was among the chief tenets of Patel’s economic philosophy.He wanted to see India industrialize quickly. His views on Indian business were just appropriate for modern India today. 
 

@@ -11,7 +11,7 @@ header:
       url: "https://github.com/luciferchase/chase_hospitals"
 
 intro: 
-  - excerpt: "This is a GUI-based system which provide best solution for future's computerised intractions plus this Software uses offline Text to Speech software so that handicapped patients will have greater ease of access while running this software. All the data's are stored in tabular form in a relational database i.e. MySQL database with tkinter based GUI written in Python."
+  - excerpt: "This is a GUI-based system which provide best solution for future's computerised interactions plus this Software uses offline Text to Speech software so that handicapped patients will have greater ease of access while running this software. All the data's are stored in tabular form in a relational database i.e. MySQL database with Tkinter based GUI written in Python."
 
 feature_row_about:
   - image_path: assets/images/python-connectivity-mysql.webp
@@ -35,7 +35,7 @@ feature_row_working:
   - image_path: /assets/images/inner-working.webp
     alt: "Working"
     title: "Working Description"
-    excerpt: "This project took pretty long. I didn't knew much about Tkinter so it was pretty much hands-on learning only. Still pretty much statisfied with the end result. My problems and solutions as well as working description are discussed in details here."
+    excerpt: "This project took pretty long. I didn't knew much about Tkinter so it was pretty much hands-on learning only. Still pretty much satisfied with the end result. My problems and solutions as well as working description are discussed in details here."
     url: "/chase-hospitals/working/"
     btn_label: "Read More"
     btn_class: "btn--primary"

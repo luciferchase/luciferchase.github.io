@@ -31,7 +31,7 @@ So, by the time I was 16 year old, I was completely sure that I wanted to join t
 
 ## Skype Meetings
 
-In the lockdown of 2020, we had the most ideal time to prepare for NDA - exam. Few of us friends, living in different parts of the country, decided to meet everyday in Skype early in the morning. Thus the journey of our preparation started from the month of May itself.
+In the lock-down of 2020, we had the most ideal time to prepare for NDA - exam. Few of us friends, living in different parts of the country, decided to meet everyday in Skype early in the morning. Thus the journey of our preparation started from the month of May itself.
 
 We started out with basics, each day we would do 1 set of PPDT - Picture Perception Description Test. At first it took us a lot of time to write a story, and the story we wrote was well exceeding the time limit. But it was fun. We slowly reduced our timings and honed our skills and were getting better every day. Plus, meeting with friends - only if virtually - was refreshing.
 
@@ -45,7 +45,7 @@ After giving the exams, we didn't even wait for the results to come. We just sta
 
 See, everything is available in the internet if you look hard enough. All these *coaching institutes* are worthless. All you need is a goal and desire to achieve that, and you won't need to spend a dime on this *coaching institutes*
 
-Sure enough, we got all we needed to practice and prepare. There are so many PPDT and TAT - Thematic appereciation test, pictures available in the internet. Same goes for WAT - Word Association Test. You will get all the details for SD - Self Description and PIQ - Personal Information Questionnaire. For OIR - Officer Intelligence Rating, bank logical reasoning questions are sufficient. 
+Sure enough, we got all we needed to practice and prepare. There are so many PPDT and TAT - Thematic appreciation test, pictures available in the internet. Same goes for WAT - Word Association Test. You will get all the details for SD - Self Description and PIQ - Personal Information Questionnaire. For OIR - Officer Intelligence Rating, bank logical reasoning questions are sufficient. 
 In short, everything is available in the internet.
 
 # Day - 1: Screen-In
@@ -79,24 +79,24 @@ We were called one by one according to our birthday in increasing order. Since I
 
 ## OIR
 
-After a little waiting, one of the psychologist, a ma'am came and briefed us about the OIR. It was a set of 2 booklets each having 40 questions and time alloted for each booklet was 17 mins. 
+After a little waiting, one of the psychologist, a ma'am came and briefed us about the OIR. It was a set of 2 booklets each having 40 questions and time allotted for each booklet was 17 minutes. 
 
 Due to my preparation, I was fairly confident about this. Boy, Was I wrong.
 Call it nerves, call it never-seen-before type of questions, call it whatever. The fact is, I panicked. Even then, I calmed myself and almost completed the paper save for 2 questions. Now, that I had seen the type of questions, I was mentally prepared and aced the next booklet and did pretty good in my opinion.
 
 ## PPDT
 
-After our OIR we were given a short break to go to washroom and relax a little bit. After that we were taken in line to a different building. And I kid you not, it felt like I was born for this. All those preparation specially for PPDT, made me feel extremely relaxed and confident.
+After our OIR we were given a short break to go to wash-room and relax a little bit. After that we were taken in line to a different building. And I kid you not, it felt like I was born for this. All those preparation specially for PPDT, made me feel extremely relaxed and confident.
 
 ### Picture Perception
 
 We were taken to a hall and briefed by the same psychologist ma'am about the PPDT. 
-The picture we were shown was crystal clear, far easier than what I had practised. There were two college stdents in the forground, a boy and girl. There was a watchman in the background and another boy who was waving from behind. The background looked like the front of a College.
+The picture we were shown was crystal clear, far easier than what I had practised. There were two college students in the foreground, a boy and girl. There was a watchman in the background and another boy who was waving from behind. The background looked like the front of a College.
 
 Call it nerves but again I got carried away and was not able to complete the story in the 4 minutes of time. Heck, I didn't have a concrete story in my mind.
 By the time 14 of us were taken to a different shed and made to sit down in a semi-circular pattern facing the Psychologist, GTO and the IO, I had changed my story 4 times in my head.
 
-But like a cliche bollywood picture, at the very last moment I had made what I thought was a pretty good story. The story I made was something like this:
+But like a cliche Bollywood picture, at the very last moment I had made what I thought was a pretty good story. The story I made was something like this:
 
 > Those two are friends in a college and their exams had just finished. They were planning to go to some place for their summer vacation. The boy in the back meets with them and after hearing about their plan,  suggest that they should instead go to an old age home and spend a day with them.
 
@@ -121,12 +121,12 @@ There was a Chest No. - 9 who also participated lively in the discussion and spo
 
 Tring! Tring!
 
-After a minute of discussion by each sub-group, we were asked to discuss as a whole once again. Again choas erupted, however this time it was a somewhat controlled chaos.
-I made few other points. Chest No. - 5 somehow listened to my points and actually said that we should follow my points. That was a huge plus point for him I think in the accessor's eyes.
+After a minute of discussion by each sub-group, we were asked to discuss as a whole once again. Again chaos erupted, however this time it was a somewhat controlled chaos.
+I made few other points. Chest No. - 5 somehow listened to my points and actually said that we should follow my points. That was a huge plus point for him I think in the accessors' eyes.
 
 Tring! Tring!
 
-The accessors then asked one of us to narrate our common story. Chest No. - 4 immediately stood up and asked to narrate the story but since none of us had elected him, the accessor made him sit down.
+The accessors then asked one of us to narrate our common story. Chest No. - 4 immediately stood up and asked to narrate the story but since none of us had elected him, the accessors made him sit down.
 Somehow, a moment later everyone of us reached to a conclusion and elected Chest No. - 1 to narrate the story, which he did pretty nicely.
 
 ## The Wait 2.0
@@ -134,14 +134,14 @@ Somehow, a moment later everyone of us reached to a conclusion and elected Chest
 After this we were again taken to a shed and made to wait. Since we were the first group, the wait was even longer. 
 
 At this point, I was feeling pretty dejected. 
-I had not done my absolute best in OIR, my story was not that ground breaking but most importantly because our Group Discussion was not upto the mark.
-It was a chaos man! I was not even sure that the accessor got to even hear my points in the discussion.
+I had not done my absolute best in OIR, my story was not that ground breaking but most importantly because our Group Discussion was not up-to the mark.
+It was a chaos man! I was not even sure that the accessors got to even hear my points in the discussion.
 At that point, I pretty much made up my mind that I would not be selected.
 It was hard. I had so much dreams and expectations, I was utterly dejected. And the wait made this even worse.
 
-Anyhow, we were given a package again as lunch. When I opened it, I found *drumroll* only Puri! Dude, I kid you not, my expectation were low but holy cow! Only Puri?
+Anyhow, we were given a package again as lunch. When I opened it, I found *drum-roll* only Puri! Dude, I kid you not, my expectation were low but holy cow! Only Puri?
 There I was dejected by my performance, and the lunch turned out to be bad too. But no, this doesn't end here. My misery was compounded when I found that there was actually a pretty decent Aloo ki Sabzi inside the package, I just didn't found it earlier. 
-So basically, I had eaten 4 puris out of 5 completely dry and ate the last Puri alone with the Sabzi.
+So basically, I had eaten 4 Puris out of 5 completely dry and ate the last Puri alone with the Sabzi.
 
 ## Result
 
@@ -177,13 +177,13 @@ After that we were given two set of PIQ forms and asked to fill all the details 
 
 ## Masti Time
 
-At last, our new Chest No. were alloted, once again in the order of our age. 
+At last, our new Chest No. were allotted, once again in the order of our age. 
 I was given Chest No. - 6 this time. 
 From our initial group of 14, 6 were screened-in which I think was the best ratio in all the groups.
 
-We were alloted a steel plate, a cup and a hanger, and escorted to our room in groups of 8.
+We were allotted a steel plate, a cup and a hanger, and escorted to our room in groups of 8.
 
-As soon as we entered our room, closed the door, boy we started cussing and laughing. A huge burden was off from our shoulders as for the next 4 days atleast, we are staying here dude.
+As soon as we entered our room, closed the door, boy we started cussing and laughing. A huge burden was off from our shoulders as for the next 4 days at least, we are staying here dude.
 
 We selected beds according to our preference. Initially all of us were silent and were just waiting for others to speak.
 Finally Chest No. - 7, from Sainik School, just said out loud Macho (*if you know you know*) and introduced himself. Soon, all of us became kinda free and it felt like we knew each other for years.

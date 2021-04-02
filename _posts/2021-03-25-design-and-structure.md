@@ -37,7 +37,7 @@ This project was completely based on Tkinter. This project actually gave me the 
 
 #### Initial Idea
 
-After deciding our theme, both of us one day met on skype (covid times :pensive:). I opened Whiteboard and quickly drew out whatever came to my mind. In retrospection this part was extremely important as it gave us a clear path to implement.
+After deciding our theme, both of us one day met on Skype (covid times :pensive:). I opened Whiteboard and quickly drew out whatever came to my mind. In retrospection this part was extremely important as it gave us a clear path to implement.
 
 ![initial-idea](/assets/Screenshots/brainstorm.jpg)    
 

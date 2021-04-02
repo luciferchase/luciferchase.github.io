@@ -9,7 +9,7 @@ sidebar:
 I have made a short video explaining all the features of this project. You can view it [here](https://youtu.be/Z7PExj_v-ZU) (and make sure to like the video :sparkling_heart:)       
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z7PExj_v-ZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Every window/page has voice feedback so its litreally someone talking and explaining things as you click them.
+Every window/page has voice feedback so its literally someone talking and explaining things as you click them.
 
 # Connecting to Database
 
@@ -38,7 +38,7 @@ After filling of details, you would be given your PID. This is required to acces
 
 # Appointment
 
-After registring yourself, patients can make an appointment with existing Doctors. They have to identify themselves by filling their PID. They can also select a date from the pop-up calendar. After submiting, general instruction regarding SOP is shown.
+After registering yourself, patients can make an appointment with existing Doctors. They have to identify themselves by filling their PID. They can also select a date from the pop-up calendar. After submiting, general instruction regarding SOP is shown.
 
 ![after-appointment](/assets/Screenshots/after_appointment.jpg)
 
@@ -57,7 +57,7 @@ The best way to find your patient is using your PID as it is unique and you can 
 # Modify Details
 
 Say you want to change any details about your patient. You can do it easily by clicking on the modify details button. You would be asked to fill your PID. After successfully verifying yourself, all your details would be shown. 
-Underneath it a drop down menu listing all the fields would be given. You can select any of the field and then fill the new information in the text box. When you click on submit, your details would be updated and you would be notifed and return to main window.
+Underneath it a drop down menu listing all the fields would be given. You can select any of the field and then fill the new information in the text box. When you click on submit, your details would be updated and you would be notified and return to main window.
 
 ![modify-details](/assets/Screenshots/modify_details.jpg)
 
