@@ -7,7 +7,7 @@ tags:
   - Drawing
 toc: false
 header:
-  teaser: /assets/art/ed-sheeran.
+  teaser: /assets/art/ed-sheeran.jpg
 excerpt: Pencil sketch of Ed Sheeran by Lucifer Chase.
 ---
 
