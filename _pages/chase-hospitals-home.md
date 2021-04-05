@@ -57,6 +57,8 @@ feature_row_developers:
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+excerpt: "A GUI based Python Connectivity project on Hospital Management. The front-end is made using Tkinter while the back-end is managed by MySQL. Project created by Udit Pati and Robin Vats."
 ---
 
 {% include feature_row id="intro" type="center" %}
