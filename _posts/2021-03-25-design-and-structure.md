@@ -9,6 +9,8 @@ tags:
   - Chase Hospitals
 excerpt: Read my initial problems and subsequent ideas to tackle those problems. A detailed description of the basic structure of main file is given here.
 feature_post: true
+header:
+  teaser: /assets/images/logo-2.jpg
 ---
 
 Read my initial problems and subsequent ideas to tackle those problems. A detailed description of the basic structure of main file is given here.
@@ -26,13 +28,13 @@ There were so many cool ideas regarding all kinds of things. I downloaded bunch 
 
 - [Banking System](http://python.mykvs.in/uploads/projects/XIComp.Sc.12.zip)
 
-![idea-bank](/assets/Screenshots/idea_bank.jpg)
+![idea-bank](/assets/chase-hospitals/idea_bank.webp)
 
 This project was simply brilliant. I was completely surprised that you can do these kinds of things with python too. I was stoked. The use of Tkinter, stylized fonts, idea, everything was amazing. I decided at that time to make a project using Tkinter only. This project also gave the idea for Text - to - Speech.
 
 - [Hospital Management](http://python.mykvs.in/uploads/projects/XIIComp.Sc.47.zip)
 
-![idea-hospital](/assets/Screenshots/idea_hospital.jpg)
+![idea-hospital](/assets/chase-hospitals/idea_hospital.webp)
 
 This project was completely based on Tkinter. This project actually gave me the idea for Hospital Management. Seeing this I decided to make my project completely using Tkinter only
 
@@ -40,7 +42,7 @@ This project was completely based on Tkinter. This project actually gave me the 
 
 After deciding our theme, both of us one day met on Skype (covid times :pensive:). I opened Whiteboard and quickly drew out whatever came to my mind. In retrospection this part was extremely important as it gave us a clear path to implement.
 
-![initial-idea](/assets/Screenshots/brainstorm.jpg)    
+![initial-idea](/assets/chase-hospitals/brainstorm.webp)    
 
 In our design we would have 3 partitions in our main window. In the top part (`top_frame`) **Chase Hospitals** was to be written. In the left side (`left_frame`) all our buttons would be there. And at last in the right side (`right_frame`) the magic would happen. Initially our logo would be shown, but once you click on any button, this `right_frame` would change while the rest would remain exactly same.
 This was our hack to make a responsive sidebar. Yes, it is very crude but hey, as long it works, it works :wink:.

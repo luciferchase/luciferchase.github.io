@@ -22,18 +22,18 @@ All codes in this file is completely written by Udit Pati and Robin Vats only. A
 To see detailed features of the project checkout [Features](/chase-hospitals/features/)
 - **Main Window**     
 
-![main window](/assets/Screenshots/main_window.jpg)
+![main window](/assets/chase-hospitals/main-window.webp)
 
 - **Registration**     
 
-![registration](/assets/Screenshots/registration.jpg)
+![registration](/assets/chase-hospitals/registration.webp)
 
 - **Patient Details (after searching)**     
 
-![patient details](/assets/Screenshots/patient_details.jpg)
+![patient details](/assets/chase-hospitals/patient-details.webp)
 
 - **Modify Details (after verifying)**     
 
-![modify details](/assets/Screenshots/modify_details.jpg)
+![modify details](/assets/chase-hospitals/modify-details.webp)
 
 Much and more :whale:
