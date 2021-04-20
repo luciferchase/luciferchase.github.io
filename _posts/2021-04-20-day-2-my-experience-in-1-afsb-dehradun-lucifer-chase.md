@@ -95,7 +95,7 @@ In our booklet, each page had a grid like structure sort of like this,
 |:-----:|:---------:|:-----:|
 |		| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|		|
 
-There were 15 in each page. We were given a 15 sec break after every 15 word to flip the pages. This was by far the most crucial break ever as I quickly used to fill out whichever w
+There were 15 in each page. We were given a 15 sec break after every 15 word to flip the pages. This was by far the most crucial break ever as I quickly used to fill out whichever word I had missed.
 
 The words were your standard WAT words. Nothing much negative or controversial words.
 
