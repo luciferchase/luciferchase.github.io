@@ -143,11 +143,8 @@ defaults:
       
 # Comments
 comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-dark" # "github-dark"
-    issue_term: "pathname"
-
+  provider: "custom"
+  
 # Archive
 category_archive:
   type: liquid
