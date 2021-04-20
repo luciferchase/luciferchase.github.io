@@ -94,7 +94,6 @@ In our booklet, each page had a grid like structure sort of like this,
 |S. No 	|Sentence 	|Marks 	|
 |:-----:|:---------:|:-----:|
 |		|			|		|
-{.table tr td:nth-child(2) { width:100% }}
 
 There were 15 in each page. We were given a 15 sec break after every 15 word to flip the pages. This was by far the most crucial break ever as I quickly used to fill out whichever w
 
