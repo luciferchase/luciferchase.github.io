@@ -210,6 +210,6 @@ After our brief introduction, we did a lot of mastis. The food was well, bad, bu
 
 So that's how my first day in 1-AFSB went by. Do read about the rest of the experience [SSB Stories](/blog/ssb-stories){: .btn .btn--inverse}
 
-Checkout - [Day 2](/blog/ssb-stories/day-2-my-experience-in-1-afsb-dehradun){: .btn .btn--inverse}
+Checkout - [Day 2](/blog/ssb-stories/day-2-my-experience-in-1-afsb-dehradun-lucifer-chase){: .btn .btn--inverse}
 
 Peace.

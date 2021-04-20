@@ -216,6 +216,6 @@ So that was how my second day in the SSB went. I was pretty confident at this po
 
 Do read about the rest of the experience here [SSB Stories](/blog/ssb-stories){: .btn .btn--inverse}
 
-Checkout - [Day 3](/blog/ssb-stories/day-3-my-experience-in-1-afsb-dehradun){: .btn .btn--inverse}
+Checkout - [Day 1](/blog/ssb-stories/day-1-my-experience-in-1-afsb-dehradun-lucifer-chase){: .btn .btn--inverse}  [Day 3](/blog/ssb-stories/day-3-my-experience-in-1-afsb-dehradun-lucifer-chase){: .btn .btn--inverse}
 
 Peace.
