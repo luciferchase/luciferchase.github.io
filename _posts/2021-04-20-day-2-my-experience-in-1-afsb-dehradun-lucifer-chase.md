@@ -91,9 +91,9 @@ Yet as I was writing stories pretty fast, I had like a 30 sec rest before WAT wh
 
 In our booklet, each page had a grid like structure sort of like this,
 
-|S. No 	|Sentence 	|Marks 	|
+|S. No.	|Sentence &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Marks 	|
 |:-----:|:---------:|:-----:|
-|		|			|		|
+|		| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|		|
 
 There were 15 in each page. We were given a 15 sec break after every 15 word to flip the pages. This was by far the most crucial break ever as I quickly used to fill out whichever w
 
