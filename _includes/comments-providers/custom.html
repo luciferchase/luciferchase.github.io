@@ -1,5 +1,5 @@
 <!-- start custom comments snippet -->
-<div id="graphcomment"></div>
+<!-- <div id="graphcomment"></div>
 <script type="text/javascript">
 
   /* - - - CONFIGURATION VARIABLES - - - */
@@ -21,5 +21,30 @@
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
   })();
 
+</script> -->
+
+<!-- Sidebar Panel -->
+
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+  /* - - - CONFIGURATION VARIABLES - - - */
+
+  // make sure the id is yours
+  window.gc_params = {
+    graphcomment_id: 'luciferchase',
+    overlay: {"width":480,"button":{"background":"#f35b5b","color":"#ffffff"},"visible":true,"bubble":true},
+  };
+
+  /* - - - DON'T EDIT BELOW THIS LINE - - - */
+
+  
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.src = 'https://graphcomment.com/js/integration.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+
 </script>
+
 <!-- end custom comments snippet -->
