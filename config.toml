@@ -30,12 +30,12 @@ theme = "LoveIt"
   # website images for Open Graph and Twitter Cards
   images = ["images/logo.png"]
 
-  # # PWA config
-  # [params.pwa]
-  #   # whether to enable PWA support
-  #   enable = true
-  #   # service-worker version
-  #   version = "1.0.1"
+  # PWA config
+  [params.pwa]
+    # whether to enable PWA support
+    enable = true
+    # service-worker version
+    version = "1"
 
   # App icon config
   [params.app]
@@ -107,41 +107,41 @@ theme = "LoveIt"
     # license info (HTML format is supported)
     license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
-  # [params.about]
-  #   # whether to enable profile on about page
-  #   # depends on .Site.Params.home.profile.enable
-  #   enable = true
-  #   # whether to enable param layout
-  #   param = true
-  #   # title for param layout
-  #   paramTitle = "Languages Learned"
-  #   # general description of your site
-  #   # can be write with markdown style
-  #   description = """Bits and Pieces of a teenager's muse who likes to waste time
-  #   doing unnecessary project on the Internet instead of studying."""
-  #   # description of your status
-  #   [[params.about.status]]
-  #     faIcon = "fas fa-user-tie"
-  #     title = "Name"
-  #     desc = "Lucifer Chase"
-  #   [[params.about.status]]
-  #     faIcon = "fas fa-briefcase fa-fw"
-  #     title = "Occupation"
-  #     desc = "Cadet in INA"
-  #   [[params.about.status]]
-  #     title = "Location"
-  #     faIcon = "fas fa-map-marker-alt"
-  #     desc = "Mars"
-  #   # description of your parameter
-  #   [[params.about.parameter]]
-  #     language = "Python"
-  #     level = "70"
-  #   [[params.about.parameter]]
-  #     language = "Go"
-  #     level = "50"
-  #   [[params.about.parameter]]
-  #     language = "C/C++"
-  #     level = "40"
+  [params.about]
+    # whether to enable profile on about page
+    # depends on .Site.Params.home.profile.enable
+    enable = true
+    # whether to enable param layout
+    param = true
+    # title for param layout
+    paramTitle = "Languages Learned"
+    # general description of your site
+    # can be write with markdown style
+    description = """Bits and Pieces of a teenager's muse who likes to waste time
+    doing unnecessary project on the Internet instead of studying."""
+    # description of your status
+    [[params.about.status]]
+      faIcon = "fas fa-user-tie"
+      title = "Name"
+      desc = "Lucifer Chase"
+    [[params.about.status]]
+      faIcon = "fas fa-briefcase fa-fw"
+      title = "Occupation"
+      desc = "Cadet in INA"
+    [[params.about.status]]
+      title = "Location"
+      faIcon = "fas fa-map-marker-alt"
+      desc = "Mars"
+    # description of your parameter
+    [[params.about.parameter]]
+      language = "Python"
+      level = "70"
+    [[params.about.parameter]]
+      language = "Go"
+      level = "50"
+    [[params.about.parameter]]
+      language = "C/C++"
+      level = "40"
 
   # Section (all posts) page config
   [params.section]

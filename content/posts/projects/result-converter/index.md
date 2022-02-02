@@ -1,6 +1,5 @@
 ---
-title: "Chase Hospitals"
-subtitle: "A GUI based Python connectivity project on Hospital Management."
+title: "CBSE Result Converter"
 date: 2021-10-27
 draft: false
 
