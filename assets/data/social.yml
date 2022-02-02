@@ -1,0 +1,56 @@
+# 001: Github
+github:
+  Weight: 1
+  Prefix: https://github.com/
+  Title: GitHub
+  Icon:
+    Class: fab fa-github-alt fa-fw
+
+# 004: Instagram
+instagram:
+  Weight: 4
+  Prefix: https://www.instagram.com/
+  Title: Instagram
+  Icon:
+    Class: fab fa-instagram fa-fw
+
+# 007: Medium
+medium:
+  Weight: 7
+  Template: https://%v.medium.com/
+  Title: Medium
+  Icon:
+    Class: fab fa-medium fa-fw
+
+# 020: Stack Overflow
+stackoverflow:
+  Weight: 20
+  Prefix: https://stackoverflow.com/users/
+  Title: Stack Overflow
+  Icon:
+    Class: fab fa-stack-overflow
+
+# 058: Dev.To
+devto:
+  Weight: 58
+  Prefix: https://dev.to/
+  Title: Dev.To
+  Icon:
+    Class: fab fa-dev fa-fw
+
+# 063: Email
+email:
+  Weight: 63
+  Template: mailto:%v
+  Title: Email
+  Icon:
+    Class: far fa-envelope fa-fw
+
+# 064: RSS
+rss:
+  Weight: 64
+  Url: /index.xml
+  Title: RSS
+  Newtab: true
+  Icon:
+    Class: fas fa-rss fa-fw
