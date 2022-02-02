@@ -4,7 +4,7 @@ date: 2022-01-31
 draft: false
 
 categories: ["articles"]
-tags: ["Code", "Python"]
+tags: ["Coding", "Python"]
 
 toc: false
 ---
