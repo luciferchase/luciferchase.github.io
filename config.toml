@@ -1,0 +1,444 @@
+baseURL = "https://luciferchase.github.io"
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "en"
+
+enableEmoji = true
+# whether to use robots.txt
+enableRobotsTXT = true
+# whether to use git commit log
+# enableGitInfo = true
+# language code
+languageCode = "en"
+
+title = "Chase Inc."
+
+# Change the default theme to be use when building the site with Hugo
+theme = "LoveIt"
+
+[params]
+  # LoveIt theme version
+  version = "0.2.X"
+  # site description
+  description = """Bits and Pieces of a teenager's muse who likes to waste time
+    doing unnecessary project on the Internet instead of studying."""
+  # site keywords
+  keywords = ["Blog", "SSB-Stories", "Coding"]
+  # site default theme ("light", "dark", "auto")
+  defaultTheme = "dark"
+  # public git repo url only then enableGitInfo is true
+  gitRepo = "https://github.com/luciferchase/luciferchase.github.io"
+  # website images for Open Graph and Twitter Cards
+  images = ["images/logo.png"]
+
+  # # PWA config
+  # [params.pwa]
+  #   # whether to enable PWA support
+  #   enable = true
+  #   # service-worker version
+  #   version = "1.0.1"
+
+  # App icon config
+  [params.app]
+    # optional site title override for the app when added to an iOS home screen or Android launcher
+    title = "Chase Inc."
+    # whether to omit favicon resource links
+    noFavicon = false
+    # modern SVG favicon to use in place of older style .png and .ico files
+    svgFavicon = ""
+    # Android browser theme color
+    themeColor = ""
+    # Safari mask icon color
+    iconColor = ""
+    # Windows v8-10 tile color
+    tileColor = ""
+
+  # Search config
+  [params.search]
+    enable = true
+    # type of search engine ("lunr", "algolia")
+    type = "lunr"
+    # max index length of the chunked content
+    contentLength = 4000
+    # placeholder of the search bar
+    placeholder = ""
+    # max number of results length
+    maxResultLength = 10
+    # snippet length of the result
+    snippetLength = 30
+    # HTML tag name of the highlight part in results
+    highlightTag = "em"
+    # whether to use the absolute URL based on the baseURL in search index
+    absoluteURL = false
+
+  # Header config
+  [params.header]
+    # desktop header mode ("fixed", "normal", "auto")
+    desktopMode = "fixed"
+    # mobile header mode ("fixed", "normal", "auto")
+    mobileMode = "auto"
+    # Header title config
+    [params.header.title]
+      # URL of the LOGO
+      logo = "/images/logo.png"
+      # title name
+      name = "Chase Inc."
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      # whether to use typeit animation for title name
+      typeit = false
+
+  # Footer config
+  [params.footer]
+    enable = true
+    # Custom content (HTML format is supported)
+    custom = "Made with ❤️ by Lucifer Chase"
+    # whether to show Hugo and theme info
+    hugo = true
+    # whether to show copyright info
+    copyright = true
+    # whether to show the author
+    author = true
+    # Site creation time
+    since = 2021
+    # ICP info only in China (HTML format is supported)
+    icp = ""
+    # license info (HTML format is supported)
+    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+  # [params.about]
+  #   # whether to enable profile on about page
+  #   # depends on .Site.Params.home.profile.enable
+  #   enable = true
+  #   # whether to enable param layout
+  #   param = true
+  #   # title for param layout
+  #   paramTitle = "Languages Learned"
+  #   # general description of your site
+  #   # can be write with markdown style
+  #   description = """Bits and Pieces of a teenager's muse who likes to waste time
+  #   doing unnecessary project on the Internet instead of studying."""
+  #   # description of your status
+  #   [[params.about.status]]
+  #     faIcon = "fas fa-user-tie"
+  #     title = "Name"
+  #     desc = "Lucifer Chase"
+  #   [[params.about.status]]
+  #     faIcon = "fas fa-briefcase fa-fw"
+  #     title = "Occupation"
+  #     desc = "Cadet in INA"
+  #   [[params.about.status]]
+  #     title = "Location"
+  #     faIcon = "fas fa-map-marker-alt"
+  #     desc = "Mars"
+  #   # description of your parameter
+  #   [[params.about.parameter]]
+  #     language = "Python"
+  #     level = "70"
+  #   [[params.about.parameter]]
+  #     language = "Go"
+  #     level = "50"
+  #   [[params.about.parameter]]
+  #     language = "C/C++"
+  #     level = "40"
+
+  # Section (all posts) page config
+  [params.section]
+    # special amount of posts in each section page
+    paginate = 20
+    # date format day-month
+    dateFormat = "02-01"
+    # amount of RSS pages
+    rss = 10
+
+  # List (category or tag) page config
+  [params.list]
+    # special amount of posts in each list page
+    paginate = 20
+    # date format day-month
+    dateFormat = "02-01"
+    # amount of RSS pages
+    rss = 10
+
+  [params.home]
+    # amount of RSS pages
+    rss = 10
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = ""
+      # URL of avatar shown in home page
+      avatarURL = "/images/bio-photo-luciferchase.webp"
+      # title shown in home page (HTML format is supported)
+      title = "Chase Inc."
+      # subtitle shown in home page
+      subtitle = "Coder, Reader, Writer and Teenager"
+      # whether to use typeit animation for subtitle
+      typeit = true
+      # whether to show social links
+      social = true
+      # disclaimer (HTML format is supported)
+      disclaimer = """Bits and Pieces of a teenager's muse who likes to waste time
+        doing unnecessary project on the Internet instead of studying."""
+
+    # Home page posts
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      paginate = 6
+
+  # Social config about the author
+  [params.social]
+    Github = "luciferchase"
+    Instagram = "luciferchase"
+    Medium = "luciferchase"
+    StackOverflow = "11088461/luciferchase"
+    Devto = "luciferchase"
+    Email = "luciferchase.me@gmail.com"
+    RSS = true
+
+  # Page config
+  [params.page]
+    # whether to hide a page from home page
+    hiddenFromHomePage = false
+    # whether to hide a page from search results
+    hiddenFromSearch = false
+    # whether to enable twemoji
+    twemoji = false
+    # whether to enable lightgallery
+    lightgallery = true
+    # whether to enable the ruby extended syntax
+    ruby = true
+    # whether to enable the fraction extended syntax
+    fraction = true
+    # whether to enable the fontawesome extended syntax
+    fontawesome = true
+    # whether to show link to Raw Markdown content of the content
+    linkToMarkdown = true
+    # whether to show link to improve the article
+    improveArticle = "https://github.com/luciferchase/luciferchase.github.io/edit/main/content/"
+    # whether to show the full text content in RSS
+    rssFullText = false
+
+    # Table of the contents config
+    [params.page.toc]
+      # whether to enable the table of the contents
+      enable = true
+      # whether to keep the static table of the contents in front of the post
+      keepStatic = false
+      # whether to make the table of the contents in the sidebar automatically collapsed
+      auto = true
+
+    # KaTeX mathematical formulas
+    [params.page.math]
+      enable = true
+      # default block delimiter is $$ ... $$ and \\[ ... \\]
+      blockLeftDelimiter = ""
+      blockRightDelimiter = ""
+      # default inline delimiter is $ ... $ and \\( ... \\)
+      inlineLeftDelimiter = ""
+      inlineRightDelimiter = ""
+      # KaTeX extension copy_tex
+      copyTex = true
+      # KaTeX extension mhchem
+      mhchem = true
+
+    # Code config
+    [params.page.code]
+      # whether to show the copy button of the code block
+      copy = true
+      # the maximum number of lines of displayed code by default
+      maxShownLines = 25
+
+    # Mapbox GL JS config
+    [params.page.mapbox]
+      # access token of Mapbox GL JS
+      accessToken = ""
+      # style for the light theme
+      lightStyle = "mapbox://styles/mapbox/light-v10?optimize=true"
+      # style for the dark theme
+      darkStyle = "mapbox://styles/mapbox/dark-v10?optimize=true"
+      # whether to add NavigationControl
+      navigation = true
+      # whether to add GeolocateControl
+      geolocate = true
+      # whether to add ScaleControl
+      scale = true
+      # whether to add FullscreenControl
+      fullscreen = true
+
+    # social share links in post page
+    [params.page.share]
+      enable = true
+      Twitter = true
+      Facebook = true
+      Whatsapp = true
+      HackerNews = true
+      Reddit = true
+
+    # Comment config
+    [params.page.comment]
+      enable = false
+
+    # Page SEO config
+    [params.page.seo]
+      # image URL
+      images = ["images/logo.png", "bio-photo-lucierchase.webp"]
+      # Publisher info
+      [params.page.seo.publisher]
+        name = "Chase Inc."
+        logoUrl = "images/logo.png"
+
+  # Site SEO config
+  [params.seo]
+    # image URL
+    image = "images/logo.png"
+    # thumbnail URL
+    thumbnailUrl = "images/bio-photo-luciferchase.webp"
+
+  # Analytics config
+  [params.analytics]
+    enable = true
+    # Google Analytics
+    [params.analytics.google]
+      id = ""
+      # whether to anonymize IP
+      anonymizeIP = true
+    # # GoatCounter Analytics
+    # [params.analytics.goatcounter]
+    #   # GoatCounter code
+    #   code = "luciferchase"
+
+  # Cookie consent config
+  [params.cookieconsent]
+    enable = false
+    # text strings used for Cookie consent banner
+    [params.cookieconsent.content]
+      message = ""
+      dismiss = ""
+      link = ""
+
+  # Compatibility config
+  [params.compatibility]
+    # whether to use Polyfill.io to be compatible with older browsers
+    polyfill = true
+    # whether to use object-fit-images to be compatible with older browsers
+    objectFit = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = "Posts"
+    weight = 1
+  [[menu.main]]
+    identifier = "ssb"
+    pre = ""
+    post = ""
+    name = "SSB Stories"
+    url = "/categories/ssb-stories/"
+    title = "SSB Stories"
+    weight = 2
+  [[menu.main]]
+    identifier = "art"
+    pre = ""
+    post = ""
+    name = "Art"
+    url = "/categories/art/"
+    title = "Art"
+    weight = 3
+  [[menu.main]]
+    identifier = "projects"
+    pre = ""
+    post = ""
+    name = "Projects"
+    url = "/categories/projects/"
+    title = "Projects"
+    weight = 4
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = "About"
+    weight = 5
+
+# Markup related config in Hugo
+[markup]
+  # Syntax Highlighting
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = true
+    # false is a necessary configuration
+    # (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+  # Goldmark is from Hugo 0.60 the default library used for Markdown
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.renderer]
+      # whether to use HTML tags directly in the document
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 6
+
+# Author config
+[author]
+  name = "Lucifer Chase"
+  email = "luciferchase.me@gmail.com"
+  link = "/about/"
+
+# Sitemap config
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+# Permalinks config
+[Permalinks]
+  # posts = ":year/:month/:filename"
+  posts = ":filename"
+
+# Privacy config
+[privacy]
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
+
+# Options to make output .md files
+[mediaTypes]
+  [mediaTypes."text/plain"]
+    suffixes = ["md"]
+
+# Options to make output .md files
+[outputFormats.MarkDown]
+  mediaType = "text/plain"
+  isPlainText = true
+  isHTML = false
+
+# Options to make hugo output files
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "MarkDown"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
