@@ -21,9 +21,10 @@ The original library on which this was based [discord.py](https://github.com/Rap
 
 # Luci: The Discord Bot
 
-![Luci](avatar.webp)
-
+{{< admonition type=abstract title="Luci" open=true >}}
+GitHub Repo: [luciferchase/luci](https://github.com/luciferchase/luci)\
 A General-Purpose Fun bot with lots and lots of features.
+{{< /admonition >}}
 
 # Commands
 
