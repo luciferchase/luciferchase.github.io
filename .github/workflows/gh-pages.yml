@@ -33,5 +33,4 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.PRIVATE_KEY }}
-          external_repository: <username/username.github.io>
           publish_dir: ./public
