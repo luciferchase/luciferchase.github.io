@@ -23,8 +23,6 @@ Easily kickstart your Python project with very opionionated best practices.
   - [x] Run checks before commiting using pre-commit
   - [x] Code analysis and formatting with Flake8, Mypy, Isort and Black
 
-{{< image src=screenshot.webp >}}
-
 This is based on this excellant article: [Python Best Practices for a New Project](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/) and some of my own experiance.
 
 # Installation
