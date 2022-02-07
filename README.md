@@ -1,11 +1,6 @@
----
-title: "About"
-date: 2022-02-04
-lastmod: 2022-02-04
-draft: false
----
-
-{{< image src="/images/chase-inc.png" caption="Chase Inc." >}}
+<p align=center>
+    <img src="/static/images/chase-inc.png" alt="/images/chase-inc.png" title="Chase Inc.">
+</p>
 
 Yo! I am Lucifer Chase.
 
@@ -40,4 +35,4 @@ Also, I am a healthy 18-year-old who has litreally quite a lot on his plate alre
 But I am trying to change that and I promise to be more active. Pakka-pappita-wala-pakka-pakka :grin:.
 
 ## If I have some other question?
-You are always welcome to message me anytime. All my links are up above.
+You are always welcome to message me anytime. All my links are up here[luciferchase.github.io/about].
