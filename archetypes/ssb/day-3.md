@@ -1,15 +1,13 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "-" " " | title }} - Day 3"
 date: {{ dateFormat "2006-01-02" .Date }}
 lastmod: {{ dateFormat "2006-01-02" .Date }}
 draft: true
 
-categories: []
-tags: []
+type: "posts"
 
 summary: >-
   ""
 
-featuredImage: ""
-images: ""
+images: "/images/{{ .Name }}.webp"
 ---

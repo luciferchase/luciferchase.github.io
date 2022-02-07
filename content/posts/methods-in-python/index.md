@@ -6,6 +6,9 @@ draft: false
 categories: ["articles"]
 tags: ["Coding", "Python"]
 
+featuredImage: code.webp
+images: ["code.webp"]
+
 toc: false
 ---
 

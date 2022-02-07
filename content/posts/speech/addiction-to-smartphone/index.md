@@ -10,6 +10,7 @@ summary: >-
   Every time there's a new tool, whether it's the Internet or cell phones or anything else, all these things can be used for good or evil. Technology is neutral; it depends on how it's used.
 
 featuredImage: smartphone.webp
+images: ["smartphone.webp"]
 ---
 
 # Introduction

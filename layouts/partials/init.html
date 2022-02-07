@@ -23,7 +23,6 @@
         {{- end -}}
     {{- end -}}
     {{- .Scratch.Set "cdn" $cdn -}}
-    {{- .Scratch.Set "pwa" .Site.Params.pwa -}}
     {{- .Scratch.Set "fingerprint" .Site.Params.fingerprint -}}
     {{- .Scratch.Set "analytics" .Site.Params.analytics -}}
     {{- .Scratch.Set "comment" $params.comment -}}
@@ -33,7 +32,7 @@
         {{- .Scratch.Set "comment" dict -}}
     {{- end -}}
 {{- else if eq .Site .Sites.First -}}
-    {{- warnf "\n\nCurrent environment is \"development\". The \"comment system\", \"CDN\", \"fingerprint\" and \"PWA\" will be disabled.\n" -}}
+    {{- warnf "\n\nCurrent environment is \"development\". The \"comment system\", \"CDN\", and \"fingerprint\" will be disabled.\n" -}}
 {{- end -}}
 
 {{- .Scratch.Set "params" $params -}}

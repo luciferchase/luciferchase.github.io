@@ -6,6 +6,7 @@ draft: false
 categories: ["articles"]
 tags: ["Coding", "Golang"]
 
+images: ["gopher.webp"]
 featuredImage: gopher.webp
 toc: false
 ---

@@ -19,8 +19,7 @@ theme = "LoveIt"
   # LoveIt theme version
   version = "0.2.X"
   # site description
-  description = """Bits and Pieces of a teenager's muse who likes to waste time
-    doing unnecessary project on the Internet instead of studying."""
+  description = "Bits and Pieces of a teenager's muse who likes to waste time doing unnecessary project on the Internet instead of studying."
   # site keywords
   keywords = ["Blog", "SSB-Stories", "Coding"]
   # site default theme ("light", "dark", "auto")
@@ -28,7 +27,7 @@ theme = "LoveIt"
   # public git repo url only then enableGitInfo is true
   gitRepo = "https://github.com/luciferchase/luciferchase.github.io"
   # website images for Open Graph and Twitter Cards
-  images = ["/images/logo.png"]
+  images = ["/images/chase-inc.png"]
 
   # PWA config
   [params.pwa]
@@ -51,6 +50,42 @@ theme = "LoveIt"
     iconColor = ""
     # Windows v8-10 tile color
     tileColor = ""
+
+  # About page config
+  [params.about]
+    # whether to enable profile on about page
+    # depends on .Site.Params.home.profile.enable
+    enable = true
+    # whether to enable param layout
+    param = true
+    # title for param layout
+    paramTitle = "Languages Learned"
+    # general description of your site
+    # can be write with markdown style
+    description = "**About this wesbite:** Bits and Pieces of a teenager's muse who likes to waste time doing unnecessary project on the Internet instead of studying."
+    # description of your status
+    [[params.about.status]]
+      faIcon = "fas fa-user-circle fa-fw"
+      title = "Name"
+      desc = "Lucifer Chase"
+    [[params.about.status]]
+      faIcon = "fas fa-briefcase fa-fw"
+      title = "Occupation"
+      desc = "Cadet in INA"
+    [[params.about.status]]
+      title = "Location"
+      faIcon = "fas fa-map-marker-alt"
+      desc = "Mars"
+    # description of your parameter
+    [[params.about.parameter]]
+      language = "Python"
+      level = "80"
+    [[params.about.parameter]]
+      language = "Go"
+      level = "70"
+    [[params.about.parameter]]
+      language = "C/C++"
+      level = "40"
 
   # Search config
   [params.search]
@@ -144,8 +179,7 @@ theme = "LoveIt"
       # whether to show social links
       social = true
       # disclaimer (HTML format is supported)
-      disclaimer = """Bits and Pieces of a teenager's muse who likes to waste time
-        doing unnecessary project on the Internet instead of studying."""
+      disclaimer = "Bits and Pieces of a teenager's muse who likes to waste time doing unnecessary project on the Internet instead of studying."
 
     # Home page posts
     [params.home.posts]
@@ -181,8 +215,6 @@ theme = "LoveIt"
     fontawesome = true
     # whether to show link to Raw Markdown content of the content
     linkToMarkdown = true
-    # whether to show link to improve the article
-    improveArticle = "https://github.com/luciferchase/luciferchase.github.io/edit/main/content/"
     # whether to show the full text content in RSS
     rssFullText = false
 
@@ -249,7 +281,7 @@ theme = "LoveIt"
     # Page SEO config
     [params.page.seo]
       # image URL
-      images = ["/images/logo.png", "/images/bio-photo-lucierchase.webp"]
+      images = ["/images/logo.png", "/images/chase-inc.png"]
       # Publisher info
       [params.page.seo.publisher]
         name = "Chase Inc."
@@ -258,9 +290,9 @@ theme = "LoveIt"
   # Site SEO config
   [params.seo]
     # image URL
-    image = "/images/logo.png"
+    image = "/images/chase-inc.png"
     # thumbnail URL
-    thumbnailUrl = "/images/bio-photo-luciferchase.webp"
+    thumbnailUrl = "/images/logo.png"
 
   # Analytics config
   [params.analytics]

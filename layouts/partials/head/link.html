@@ -49,3 +49,22 @@
 {{- $source := $cdn.animateCSS | default "lib/animate/animate.min.css" -}}
 {{- $style := dict "Source" $source "Fingerprint" $fingerprint -}}
 {{- partial "plugin/style.html" $style -}}
+
+{{- if not .IsHome -}}
+
+{{- $aboutPage := site.GetPage "/about" -}}
+{{- if eq .Page $aboutPage -}}
+{{- /* about.min.css */ -}}
+{{- if .Site.Params.SourceMap -}}
+{{- $style := dict "Source" "css/about.scss" "Fingerprint" $fingerprint -}}
+{{- $options := dict "targetPath" "css/about.min.css" "enableSourceMap" true -}}
+{{- $style = dict "Context" . "ToCSS" $options | merge $style -}}
+{{- partial "plugin/style.html" $style -}}
+{{- else -}}
+{{- $style := dict "Source" "css/about.scss" "Fingerprint" $fingerprint -}}
+{{- $options := dict "targetPath" "css/about.min.css" "enableSourceMap" false -}}
+{{- $style = dict "Context" . "ToCSS" $options | merge $style -}}
+{{- partial "plugin/style.html" $style -}}
+{{- end -}}
+{{ end }}
+{{- end -}}

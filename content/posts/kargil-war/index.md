@@ -12,6 +12,7 @@ summary: >-
   Pakistani "soldiers" intruded inside India and captured numerous strategically important hills and mountain tops. India deployed their forces to evict them and after a 75 days brutal, bloody, and inspiring war, on 26th July 1999 (Vijay Diwas), India recaptured all its territory.
 
 featuredImage: kargil-2.webp
+images: ["kargil-2.webp"]
 ---
 
 {{< admonition type=note title="Note" open=true >}}

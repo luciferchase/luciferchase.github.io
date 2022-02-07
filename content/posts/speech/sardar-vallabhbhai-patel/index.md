@@ -10,6 +10,7 @@ summary: >-
   The fact that there is today an India to think, talk and know is very largely due to Sardar Patel's statesmanship and firm administration. In this modern time of Superheroes and fiction, we too had our own Iron Man in our country. Our very own Sardar Vallabhbhai Patel, the man who united our nation.
 
 featuredImage: india.webp
+images: ["india.webp"]
 ---
 
 {{< admonition type=quote title="Sardar Vallabhbhai Patel" open=true >}}
