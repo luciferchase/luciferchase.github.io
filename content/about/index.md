@@ -14,12 +14,13 @@ I have completed my Schooling from various KVs in different parts of India. I go
 I like sketching, coding, running and am an absolute sucker for all things related to armed forces in India.
 
 # Tech Stack
-|Tech                   | Remark                                                    |
-|-----------------------|-----------------------------------------------------------|
-|Website is build on    | [Hugo](gohugo.io): a really awesome Static Site Generator  |
-|Theme                  | [LoveIt](https://hugoloveit.com/)                         |
-|Comments Powered by    | [GraphComment](graphcomment.com)                          |
-|Analytics              | [GoatCounter](goatcounter.com)                            |
+|Tech                   | Remark                                                            |
+|-----------------------|-------------------------------------------------------------------|
+|Website is build on    | [Hugo](https://gohugo.io): a really awesome Static Site Generator |
+|Hosted on              | [GitHub Pages](https://pages.github.com/)                         |
+|Theme                  | [LoveIt](https://hugoloveit.com/)                                 |
+|Comments Powered by    | [GraphComment](https://graphcomment.com)                          |
+|Analytics              | [GoatCounter](https://goatcounter.com)                            |
 
 # FAQ
 

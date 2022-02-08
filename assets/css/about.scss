@@ -18,7 +18,7 @@
   align-items: stretch;
   justify-content: space-between;
   flex-direction: row;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 
 .profile{
@@ -134,8 +134,7 @@
 }
 
 .param {
-  margin-top: 1rem;
-  margin-left: 1rem;
+  margin-top: 2rem;
   padding: 1rem;
   width: 59%;
   min-height: 26rem;
@@ -243,7 +242,7 @@
   .profile {
     margin-top: 4rem;
     [data-param="off"] &, [data-param="on"] & {
-      flex-direction: column;
+      flex-direction: row;
       .grid {
         width: 100%;
       }
@@ -265,5 +264,16 @@
         }
       }
     }
+  }
+}
+
+@media only screen and (min-device-width: 1300px) {
+  .single-card[data-about=true] {
+    flex-wrap: nowrap;
+  }
+
+  .param {
+    margin-top: 1rem;
+    margin-left: 1rem;
   }
 }
