@@ -1,19 +1,28 @@
 {
-    "name": "",
-    "short_name": "",
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "name": "Chase Inc.",
+    "short_name": "Chase Inc.",
+    "start_url": "/",
+    "description": "Bits and Pieces of a teenager's muse who likes to waste time doing unnecessary project on the Internet instead of studying.",
     "icons": [
         {
-            "src": "android-chrome-192x192.png",
+            "src": "/icons/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icons/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "android-chrome-512x512.png",
+            "src": "/icons/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#4964e8",
+    "background_color": "#4964e8",
     "display": "standalone"
 }
