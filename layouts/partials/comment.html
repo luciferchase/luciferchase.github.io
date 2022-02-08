@@ -130,10 +130,11 @@
         {{- if $graphcomment.enable -}}
             <div id="graphcomment"></div>
             <script type="text/javascript">
+
                 /* - - - CONFIGURATION VARIABLES - - - */
 
                 var __semio__params = {
-                    graphcommentId: $graphcomment.id, // make sure the id is yours
+                    graphcommentId: "luciferchase", // make sure the id is yours
 
                     behaviour: {
                         // HIGHLY RECOMMENDED
@@ -156,7 +157,12 @@
                     gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
                     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
                 })();
+
+
             </script>
+            <noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://graphcomment.com">GraphComment</a>.
+            </noscript>
         {{- end -}}
     </div>
 {{- end -}}
