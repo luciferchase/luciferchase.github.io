@@ -276,7 +276,10 @@ theme = "LoveIt"
 
     # Comment config
     [params.page.comment]
-      enable = false
+      enable = true
+      # GraphComment config
+      [params.page.comment.graphcomment]
+      id = "luciferchase"
 
     # Page SEO config
     [params.page.seo]
