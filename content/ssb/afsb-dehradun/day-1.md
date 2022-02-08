@@ -5,6 +5,8 @@ title: "AFSB Dehradun - Day 1"
 date: 2021-03-28
 draft: false
 
+aliases: "/blog/ssb-stories/day-1-my-experience-in-1-afsb-dehradun-lucifer-chase"
+
 categories: ["ssb-stories"]
 tags: ["SSB", "Air Force", "NDA"]
 

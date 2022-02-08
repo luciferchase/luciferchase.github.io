@@ -2,9 +2,10 @@
 weight: 2
 
 title: "AFSB Dehradun - Day 2"
-# subtitle: "My experience in 1 AFSB Dehradun - Day 2"
 date: 2021-04-20
 draft: false
+
+aliases: "/blog/ssb-stories/day-2-my-experience-in-1-afsb-dehradun-lucifer-chase"
 
 categories: ["ssb-stories"]
 tags: ["SSB", "Air Force", "NDA"]

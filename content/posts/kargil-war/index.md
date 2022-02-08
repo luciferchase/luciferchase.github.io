@@ -5,6 +5,8 @@ title: "The Kargil War 1999"
 date: 2021-09-21
 draft: false
 
+aliases: "/blog/kargil-war"
+
 categories: ["articles"]
 tags: ["Army", "Air Force", "War"]
 

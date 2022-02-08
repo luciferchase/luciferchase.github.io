@@ -6,6 +6,8 @@ draft: false
 categories: ["ssb-stories"]
 tags: ["SSB", "Air Force", "NDA"]
 
+aliases: "/blog/ssb-stories/my-experience-in-4-afsb-varanasi-rajat-gupta"
+
 featuredImage: nda.webp
 
 author: "Rajat Gupta"
