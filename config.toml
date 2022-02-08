@@ -45,9 +45,9 @@ theme = "LoveIt"
     # modern SVG favicon to use in place of older style .png and .ico files
     svgFavicon = ""
     # Android browser theme color
-    themeColor = ""
+    themeColor = "#4964e8"
     # Safari mask icon color
-    iconColor = ""
+    iconColor = "#5e74de"
     # Windows v8-10 tile color
     tileColor = ""
 
