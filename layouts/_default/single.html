@@ -3,6 +3,9 @@
 {{- define "content" -}}
     {{- $params := .Scratch.Get "params" -}}
 
+    {{- $offline := $params.offline -}}
+    {{- if ne $offline true -}}
+
     {{- $about := .Site.Params.about -}}
     {{- $profile := .Site.Params.home.profile -}}
     {{- $aboutPage := site.GetPage "/about" -}}
@@ -54,5 +57,15 @@
         {{- /* Comment */ -}}
         {{- partial "comment.html" . -}}
     </div>
+    {{- end -}}
+    {{- else if eq $offline true -}}
+    <article id="content-404">
+        <h2>{{ .Title }}</h2>
+        <p>
+            {{- T "pageOffline" -}}
+        </p>
+        <a href="{{ .Site.Home.RelPermalink }}" title="{{ T `home` }}">{{ T `home` }}</a>
+        <a href="javascript:void(0);" title="{{ T `back` }}" onclick="window.history.back();">{{ T `back` }}</a>
+    </article>
     {{- end -}}
 {{- end -}}
