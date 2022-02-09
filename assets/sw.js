@@ -241,4 +241,3 @@ self.addEventListener("message", (event) => {
         }
     }
 });
-
