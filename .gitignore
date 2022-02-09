@@ -1,8 +1,8 @@
+# Hugo generated files
 /public/
 /resources/_gen/
 
 .hugo_build.lock
 
-# OpenSSH keys
-deployment
-deployment.pub
+# Ideas and drafts
+/content/ideas/

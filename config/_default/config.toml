@@ -8,6 +8,7 @@ enableRobotsTXT = true
 enableGitInfo = true
 # The internal RSS template populates its <language> element with this value. The value is not used elsewhere.
 languageCode = "en"
+ignoreFiles = ["/content/ideas"]
 
 newContentEditor = "code"
 timeZone = "Asia/Kolkata"
