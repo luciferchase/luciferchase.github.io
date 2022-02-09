@@ -1,9 +1,8 @@
 {
     "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-    "name": "Chase Inc.",
-    "short_name": "Chase Inc.",
-    "start_url": "/",
+    "background_color": "#4964e8",
     "description": "Bits and Pieces of a teenager's muse who likes to waste time doing unnecessary project on the Internet instead of studying.",
+    "display": "standalone",
     "icons": [
         {
             "src": "/icons/apple-touch-icon.png",
@@ -22,24 +21,32 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#4964e8",
-    "background_color": "#4964e8",
-    "display": "standalone",
+    "name": "Chase Inc.",
+    "orientation": "natural",
+    "scope": "/",
     "screenshots": [
         {
-            "src": "/images/screenshot-home-desktop.png",
+            "src": "/images/screenshot-home-desktop.jpeg",
             "sizes": "1280x800",
-            "type": "image/png"
+            "type": "image/jpeg"
         },
         {
-            "src": "/images/screenshot-home-mobile.png",
+            "src": "/images/screenshot-home-mobile.jpeg",
             "sizes": "750x1334",
-            "type": "image/png"
+            "type": "image/jpeg"
         },
         {
-            "src": "/images/screenshot-about-mobile.png",
+            "src": "/images/screenshot-about-desktop.jpeg",
             "sizes": "750x1334",
-            "type": "image/png"
+            "type": "image/jpeg"
+        },
+        {
+            "src": "/images/screenshot-about-mobile.jpeg",
+            "sizes": "750x1334",
+            "type": "image/jpeg"
         }
-    ]
+    ],
+    "short_name": "Chase Inc.",
+    "start_url": "/",
+    "theme_color": "#4964e8"
 }
