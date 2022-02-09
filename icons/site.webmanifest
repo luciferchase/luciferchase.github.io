@@ -24,5 +24,22 @@
     ],
     "theme_color": "#4964e8",
     "background_color": "#4964e8",
-    "display": "standalone"
+    "display": "standalone",
+    "screenshots": [
+        {
+            "src": "/images/screenshot-home-desktop.png",
+            "sizes": "1280x800",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/screenshot-home-mobile.png",
+            "sizes": "750x1334",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/screenshot-about-mobile.png",
+            "sizes": "750x1334",
+            "type": "image/png"
+        }
+    ]
 }
