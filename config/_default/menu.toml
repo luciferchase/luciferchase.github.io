@@ -1,0 +1,43 @@
+[[main]]
+  identifier = "posts"
+  # you can add extra information before the name (HTML format is supported), such as icons
+  pre = ""
+  # you can add extra information after the name (HTML format is supported), such as icons
+  post = ""
+  name = "Posts"
+  url = "/posts/"
+  # title will be shown when you hover on this menu link
+  title = "Posts"
+  weight = 1
+[[main]]
+  identifier = "ssb"
+  pre = ""
+  post = ""
+  name = "SSB Stories"
+  url = "/categories/ssb-stories/"
+  title = "SSB Stories"
+  weight = 2
+[[main]]
+  identifier = "art"
+  pre = ""
+  post = ""
+  name = "Art"
+  url = "/categories/art/"
+  title = "Art"
+  weight = 3
+[[main]]
+  identifier = "projects"
+  pre = ""
+  post = ""
+  name = "Projects"
+  url = "/categories/projects/"
+  title = "Projects"
+  weight = 4
+[[main]]
+  identifier = "about"
+  pre = ""
+  post = ""
+  name = "About"
+  url = "/about/"
+  title = "About"
+  weight = 5

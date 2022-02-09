@@ -1,0 +1,51 @@
+baseURL = "https://luciferchase.github.io"
+title = "Chase Inc."
+theme = "LoveIt"
+
+enableEmoji = true
+enableRobotsTXT = true
+# whether to use git commit log
+enableGitInfo = true
+# The internal RSS template populates its <language> element with this value. The value is not used elsewhere.
+languageCode = "en"
+
+newContentEditor = "code"
+timeZone = "Asia/Kolkata"
+
+# Author config
+[author]
+  name = "Lucifer Chase"
+  email = "luciferchase.me@gmail.com"
+  link = "/about/"
+
+# Options to make output .md files
+[mediaTypes]
+  [mediaTypes."text/plain"]
+    suffixes = ["md"]
+
+# Options to make hugo output files
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "MarkDown"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
+
+# Options to make output .md files
+[outputFormats.MarkDown]
+  mediaType = "text/plain"
+  isPlainText = true
+  isHTML = false
+
+# Privacy config
+[privacy]
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
+
+# Sitemap config
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5

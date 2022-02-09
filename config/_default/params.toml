@@ -1,0 +1,304 @@
+# LoveIt theme version
+version = "0.2.X"
+# site description
+description = "Bits and Pieces of a teenager's muse who likes to waste time doing unnecessary project on the Internet instead of studying."
+# site keywords
+keywords = ["Blog", "SSB-Stories", "Coding"]
+# site default theme ("light", "dark", "auto")
+defaultTheme = "dark"
+# public git repo url only then enableGitInfo is true
+gitRepo = "https://github.com/luciferchase/luciferchase.github.io"
+# website images for Open Graph and Twitter Cards
+images = ["/images/chase-inc.png", "/images/logo.png"]
+
+# About page config
+[about]
+  # whether to enable profile on about page
+  # depends on .Site.Params.home.profile.enable
+  enable = true
+  # whether to enable param layout
+  param = true
+  # title for param layout
+  paramTitle = "Languages Learned"
+  # general description of your site
+  # can be written with markdown style
+  description = "**About this wesbite:** Bits and Pieces of a teenager's muse who likes to waste time doing unnecessary project on the Internet instead of studying."
+
+  # description of your status
+  [[about.status]]
+    faIcon = "fas fa-user-circle fa-fw"
+    title = "Name"
+    desc = "Lucifer Chase"
+  [[about.status]]
+    faIcon = "fas fa-briefcase fa-fw"
+    title = "Occupation"
+    desc = "Cadet in INA"
+  [[about.status]]
+    title = "Location"
+    faIcon = "fas fa-map-marker-alt"
+    desc = "Mars"
+  # description of your parameter
+  [[about.parameter]]
+    language = "Python"
+    level = "80"
+  [[about.parameter]]
+    language = "Go"
+    level = "70"
+  [[about.parameter]]
+    language = "C/C++"
+    level = "40"
+
+# Analytics config
+[analytics]
+  enable = true
+  # GoatCounter Analytics
+  [analytics.goatcounter]
+    # GoatCounter code
+    code = "luciferchase"
+
+# App icon config
+[app]
+  # optional site title override for the app when added to an iOS home screen or Android launcher
+  title = "Chase Inc."
+  # whether to omit favicon resource links
+  noFavicon = false
+  # modern SVG favicon to use in place of older style .png and .ico files
+  svgFavicon = ""
+  # Android browser theme color
+  themeColor = "#4964e8"
+  # Safari mask icon color
+  iconColor = "#5e74de"
+  # Windows v8-10 tile color
+  tileColor = "#4964e8"
+
+# Compatibility config
+[compatibility]
+  # whether to use Polyfill.io to be compatible with older browsers
+  polyfill = true
+  # whether to use object-fit-images to be compatible with older browsers
+  objectFit = true
+
+# Cookie consent config
+[cookieconsent]
+  enable = false
+
+# Footer config
+[footer]
+  enable = true
+  # Custom content (HTML format is supported)
+  custom = "Made with ❤️ by Lucifer Chase"
+  # whether to show Hugo and theme info
+  hugo = true
+  # whether to show copyright info
+  copyright = true
+  # whether to show the author
+  author = true
+  # Site creation time
+  since = 2021
+  # ICP info only in China (HTML format is supported)
+  icp = ""
+  # license info (HTML format is supported)
+  license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+# Header config
+[header]
+  # desktop header mode ("fixed", "normal", "auto")
+  desktopMode = "fixed"
+  # mobile header mode ("fixed", "normal", "auto")
+  mobileMode = "auto"
+  # Header title config
+  [header.title]
+    # URL of the LOGO
+    logo = "/images/logo.png"
+    # title name
+    name = "Chase Inc."
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    # whether to use typeit animation for title name
+    typeit = false
+
+# Home config
+[home]
+  # amount of RSS pages
+  rss = 10
+
+  # Home page profile
+  [home.profile]
+    enable = true
+    # Gravatar Email for preferred avatar in home page
+    gravatarEmail = ""
+    # URL of avatar shown in home page
+    avatarURL = "/images/bio-photo-luciferchase.webp"
+    # title shown in home page (HTML format is supported)
+    title = "Chase Inc."
+    # subtitle shown in home page
+    subtitle = "Coder, Reader, Writer and Teenager"
+    # whether to use typeit animation for subtitle
+    typeit = true
+    # whether to show social links
+    social = true
+    # disclaimer (HTML format is supported)
+    disclaimer = "Bits and Pieces of a teenager's muse who likes to waste time doing unnecessary project on the Internet instead of studying."
+
+  # Home page posts
+  [home.posts]
+    enable = true
+    # special amount of posts in each home posts page
+    paginate = 6
+
+
+# List (category or tag) page config
+[list]
+  # special amount of posts in each list page
+  paginate = 20
+  # date format day-month
+  dateFormat = "02-01"
+  # amount of RSS pages
+  rss = 10
+
+# Page config
+[page]
+  # whether to hide a page from home page
+  hiddenFromHomePage = false
+  # whether to hide a page from search results
+  hiddenFromSearch = false
+  # whether to enable twemoji
+  twemoji = false
+  # whether to enable lightgallery
+  lightgallery = true
+  # whether to enable the ruby extended syntax
+  ruby = false
+  # whether to enable the fraction extended syntax
+  fraction = false
+  # whether to enable the fontawesome extended syntax
+  fontawesome = true
+  # whether to show link to Raw Markdown content of the content
+  linkToMarkdown = true
+  # whether to show the full text content in RSS
+  rssFullText = false
+
+  # Table of the contents config
+  [page.toc]
+    # whether to enable the table of the contents
+    enable = true
+    # whether to keep the static table of the contents in front of the post
+    keepStatic = false
+    # whether to make the table of the contents in the sidebar automatically collapsed
+    auto = true
+
+  # KaTeX mathematical formulas
+  [page.math]
+    enable = false
+    # default block delimiter is $$ ... $$ and \\[ ... \\]
+    blockLeftDelimiter = ""
+    blockRightDelimiter = ""
+    # default inline delimiter is $ ... $ and \\( ... \\)
+    inlineLeftDelimiter = ""
+    inlineRightDelimiter = ""
+    # KaTeX extension copy_tex
+    copyTex = true
+    # KaTeX extension mhchem
+    mhchem = true
+
+  # Code config
+  [page.code]
+    # whether to show the copy button of the code block
+    copy = true
+    # the maximum number of lines of displayed code by default
+    maxShownLines = 25
+
+  # Mapbox GL JS config
+  [page.mapbox]
+    # access token of Mapbox GL JS
+    accessToken = ""
+    # style for the light theme
+    lightStyle = "mapbox://styles/mapbox/light-v10?optimize=true"
+    # style for the dark theme
+    darkStyle = "mapbox://styles/mapbox/dark-v10?optimize=true"
+    # whether to add NavigationControl
+    navigation = true
+    # whether to add GeolocateControl
+    geolocate = true
+    # whether to add ScaleControl
+    scale = true
+    # whether to add FullscreenControl
+    fullscreen = true
+
+  # social share links in post page
+  [page.share]
+    enable = true
+    Twitter = true
+    Facebook = true
+    Whatsapp = true
+    HackerNews = true
+    Reddit = true
+
+  # Comment config
+  [page.comment]
+    enable = true
+    # GraphComment config
+    [page.comment.graphcomment]
+      enable = true
+      id = "luciferchase"
+
+  # Page SEO config
+  [page.seo]
+    # image URL
+    images = ["/images/logo.png", "/images/chase-inc.png"]
+    # Publisher info
+    [page.seo.publisher]
+      name = "Chase Inc."
+      logoUrl = "/images/logo.png"
+
+# PWA config
+[pwa]
+  # whether to enable PWA support
+  enable = true
+  # service-worker version
+  version = "1.0.1"
+
+# Search config
+[search]
+  enable = true
+  # type of search engine ("lunr", "algolia")
+  type = "lunr"
+  # max index length of the chunked content
+  contentLength = 4000
+  # placeholder of the search bar
+  placeholder = ""
+  # max number of results length
+  maxResultLength = 10
+  # snippet length of the result
+  snippetLength = 30
+  # HTML tag name of the highlight part in results
+  highlightTag = "em"
+  # whether to use the absolute URL based on the baseURL in search index
+  absoluteURL = false
+
+# Section (all posts) page config
+[section]
+  # special amount of posts in each section page
+  paginate = 20
+  # date format day-month
+  dateFormat = "02-01"
+  # amount of RSS pages
+  rss = 10
+
+# Site SEO config
+[seo]
+  # image URL
+  image = "/images/chase-inc.png"
+  # thumbnail URL
+  thumbnailUrl = "/images/logo.png"
+
+# Social config about the author
+[social]
+  Github = "luciferchase"
+  Instagram = "luciferchase"
+  Medium = "luciferchase"
+  StackOverflow = "11088461/luciferchase"
+  Devto = "luciferchase"
+  Email = "luciferchase.me@gmail.com"
+  RSS = true
