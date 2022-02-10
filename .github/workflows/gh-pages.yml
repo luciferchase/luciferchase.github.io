@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Update theme
-        # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
+        # (Optional) If you have the theme added as submodule, you can pull it and use the most updated version
         run: git submodule update --init --recursive
 
       - name: Build

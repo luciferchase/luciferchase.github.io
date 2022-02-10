@@ -1,14 +1,9 @@
 ---
-weight: 2
-
-title: "AFSB Dehradun - Day 2"
+title: "1-AFSB Dehradun - Day 2"
 date: 2021-04-20
 draft: false
 
-aliases: "/blog/ssb-stories/day-2-my-experience-in-1-afsb-dehradun-lucifer-chase"
-
-categories: ["ssb-stories"]
-tags: ["SSB", "Air Force", "NDA"]
+aliases: ["/blog/ssb-stories/day-2-my-experience-in-1-afsb-dehradun-lucifer-chase", "/posts/ssb/afsb-dehradun/day-2"]
 
 summary: >-
   Day - 2. Read how I fared on my second day where all the psychological tests were done. And yeah I had almost got myself expelled too and got an asterisk.
@@ -18,7 +13,8 @@ images: ["/images/afsb-dehradun.webp"]
 
 {{< image src=/images/afsb-dehradun.webp caption="Me and my bois (I am Chest No. 6)" height=100% width=100% >}}
 
-This blog owing to its length is divided into 5 posts, each in detail description of my 5 day experience in the SSB. After reading this checkout the rest of the Posts too [SSB Stories](/categories/ssb-stories/)
+This blog owing to its length is divided into 5 posts, each in detail description of my 5 day experience in the SSB. After reading this checkout the rest of the Posts too [1-AFSB Dehradun](/ssb/afsb-dehradun).\
+Read all my SSB attempts: [SSB Stories](/categories/ssb-stories).
 
 {{< admonition type=tip open=true >}}
 Rules are made so that it could be broken boi.\
@@ -242,6 +238,6 @@ So that was how my second day in the SSB went. I was pretty confident at this po
 
 Do read about the rest of the experience here [SSB Stories](/categories/ssb-stories/).
 
-Checkout - [Day 1](/posts/ssb/afsb-dehradun/day-1/) & [Day 3](/posts/ssb/afsb-dehradun/day-3/)
+Checkout - [Day 1](/ssb/afsb-dehradun/day-1/) & [Day 3](/ssb/afsb-dehradun/day-3/)
 
 Peace.

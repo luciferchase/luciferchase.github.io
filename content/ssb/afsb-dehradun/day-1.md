@@ -1,14 +1,9 @@
 ---
-weight: 1
-
-title: "AFSB Dehradun - Day 1"
+title: "1-AFSB Dehradun - Day 1"
 date: 2021-03-28
 draft: false
 
-aliases: "/blog/ssb-stories/day-1-my-experience-in-1-afsb-dehradun-lucifer-chase"
-
-categories: ["ssb-stories"]
-tags: ["SSB", "Air Force", "NDA"]
+aliases: ["/blog/ssb-stories/day-1-my-experience-in-1-afsb-dehradun-lucifer-chase", "/posts/ssb/afsb-dehradun/day-2"]
 
 summary: >-
   Day - 1. Read my preparation and my experience in 1-AFSB Dehradun. I was screened-in but unfortunately not-recommended. Read what mistakes I did so that you won't.
@@ -18,7 +13,8 @@ images: ["/images/afsb-dehradun.webp"]
 
 {{< image src=/images/afsb-dehradun.webp caption="Me and my bois (I am Chest No. 6)" height=100% width=100% >}}
 
-This blog owing to its length is divided into 5 posts, each in detail description of my 5 day experience in the SSB. After reading this checkout the rest of the Posts too [SSB Stories](/categories/ssb-stories)
+This blog owing to its length is divided into 5 posts, each in detail description of my 5 day experience in the SSB. After reading this checkout the rest of the Posts too [1-AFSB Dehradun](/ssb/afsb-dehradun).\
+Read all my SSB attempts: [SSB Stories](/categories/ssb-stories).
 
 {{< admonition type=tip open=true >}}
 "Recommended till not recommended!"\
@@ -218,6 +214,6 @@ After our brief introduction, we did a lot of mastis. The food was well, bad, bu
 
 So that's how my first day in 1-AFSB went by. Do read about the rest of the experience [SSB Stories](/categories/ssb-stories/).
 
-Checkout - [Day 2](/posts/ssb/afsb-dehradun/day-2/)
+Checkout - [Day 2](/ssb/afsb-dehradun/day-2/)
 
 Peace.
