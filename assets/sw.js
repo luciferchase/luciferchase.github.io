@@ -1,7 +1,41 @@
 const CACHE_VERSION = new URL(location).searchParams.get("version");
-const BASE_CACHE_FILES = ["/css/home.min.css", "/css/page.min.css", "/css/about.min.css", "/js/theme.min.js", "/site.webmanifest", "/offline/index.html", "/404.html"];
-const OFFLINE_CACHE_FILES = ["/css/home.min.css", "/js/theme.min.js", "/offline/index.html"];
-const NOT_FOUND_CACHE_FILES = ["/css/home.min.css", "/css/page.min.css", "/js/theme.min.js", "/404.html"];
+
+const BASE_CACHE_FILES = [
+    "/css/about.min.css",
+    "/css/home.min.css",
+    "/css/page.min.css",
+    "/css/style.min.css",
+
+    "/lib/autocomplete/autocomplete.min.js",
+    "/js/theme.min.js",
+
+    "/lib/webfonts/fa-solid-900.woff2",
+    "/lib/webfonts/fa-brands-400.woff2",
+    "/lib/webfonts/fa-regular-400.woff2",
+
+    "/icons/site.webmanifest",
+    "/icons/favicon-32x32.png",
+
+    "/images/bio-photo-luciferchase.webp",
+    "images/logo.png",
+
+    "/offline/index.html",
+    "/404.html",
+];
+
+const OFFLINE_CACHE_FILES = [
+    "/css/home.min.css",
+    "/js/theme.min.js",
+    "/offline/index.html",
+]
+;
+const NOT_FOUND_CACHE_FILES = [
+    "/css/home.min.css",
+    "/css/page.min.css",
+    "/js/theme.min.js",
+    "/404.html",
+];
+
 const OFFLINE_PAGE = "/offline/index.html";
 const NOT_FOUND_PAGE = "/404.html";
 
@@ -18,6 +52,9 @@ const MAX_TTL = {
     json: 86400,
     js: 86400,
     css: 86400,
+    woff2: 86400,
+    png: 86400,
+    webp: 86400,
 };
 
 const CACHE_BLACKLIST = [
@@ -28,23 +65,35 @@ const CACHE_BLACKLIST = [
 
 const SUPPORTED_METHODS = ["GET"];
 
+/*
+ * isBlackListed
+ * @param {string} url
+ * @returns {boolean}
+*/
 function isBlacklisted(url) {
-    return CACHE_BLACKLIST.length > 0
-        ? !CACHE_BLACKLIST.filter((rule) => {
-              if (typeof rule === "function") {
-                  return !rule(url);
-              } else {
-                  return false;
-              }
-          }).length
-        : false;
+    return CACHE_BLACKLIST.length > 0 ? !CACHE_BLACKLIST.filter((rule) => {
+        if (typeof rule === "function") {
+            return !rule(url);
+        } else {
+            return false;
+        }
+    }).length: false;
 }
 
+/*
+ * getFileExtension
+ * @param {string} url
+ * @returns {string}
+*/
 function getFileExtension(url) {
     let extension = url.split(".").reverse()[0].split("?")[0];
     return extension.endsWith("/") ? "/" : extension;
 }
 
+/*
+ * getTTL
+ * @param {string} url
+*/
 function getTTL(url) {
     if (typeof url === "string") {
         let extension = getFileExtension(url);
@@ -58,6 +107,10 @@ function getTTL(url) {
     }
 }
 
+/*
+ * installServiceWorker
+ * @returns {Promise}
+*/
 function installServiceWorker() {
     return Promise.all([
         caches.open(CACHE_VERSIONS.assets).then((cache) => {
@@ -74,6 +127,10 @@ function installServiceWorker() {
     });
 }
 
+/*
+ * cleanupLegacyCache
+ * @returns {Promise}
+*/
 function cleanupLegacyCache() {
     let currentCaches = Object.keys(CACHE_VERSIONS).map((key) => {
         return CACHE_VERSIONS[key];
@@ -137,6 +194,7 @@ self.addEventListener("install", (event) => {
     event.waitUntil(Promise.all([installServiceWorker(), self.skipWaiting()]));
 });
 
+// The activate handler takes care of cleaning up old caches.
 self.addEventListener("activate", (event) => {
     event.waitUntil(
         Promise.all([cleanupLegacyCache(), self.clients.claim(), self.skipWaiting()]).catch((err) => {
