@@ -2,8 +2,8 @@
 weight: 1
 
 title: "1-AFSB Dehradun"
-date: 2022-02-10
-draft: true
+date: 2021-03-28
+draft: false
 url: "/ssb/afsb-dehradun/"
 
 type: "posts"

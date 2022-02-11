@@ -1,0 +1,39 @@
+{{- define "content" -}}
+    {{- $params := .Scratch.Get "params" -}}
+    {{- $posts := .Site.Params.home.posts -}}
+
+    <div class="page home" posts>
+        {{- /* Title */ -}}
+        <h2 class="single-title animated pulse faster">
+            {{- .Params.Title | default (T .Section) | default .Section | dict "Some" | T "allSome" -}}
+        </h2>
+
+        {{- /* Content */ -}}
+        {{- if .Content -}}
+            <div class="single">
+                <div class="content" id="content">
+                    {{- dict "Content" .Content "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
+                </div>
+            </div>
+        {{- end -}}
+
+        {{- /* Posts */ -}}
+        {{- /* Paginate */ -}}
+        {{- $pages := where .Site.RegularPages "Type" "posts" -}}
+        {{- $pages = where $pages "Params.categories" "intersect" (slice "ssb-stories") -}}
+        {{- if .Site.Params.page.hiddenFromHomePage -}}
+            {{- $pages = where $pages "Params.hiddenfromhomepage" false -}}
+        {{- else -}}
+            {{- $pages = where $pages "Params.hiddenfromhomepage" "!=" true -}}
+        {{- end -}}
+        {{- with $posts.paginate | default .Site.Params.paginate -}}
+            {{- $pages = $.Paginate $pages . -}}
+        {{- else -}}
+            {{- $pages = .Paginate $pages -}}
+        {{- end -}}
+        {{- range $pages.Pages -}}
+            {{- .Render "summary" -}}
+        {{- end -}}
+        {{- partial "paginator.html" . -}}
+    </div>
+{{- end -}}
