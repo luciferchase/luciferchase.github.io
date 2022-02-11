@@ -3,7 +3,13 @@ title: "1-AFSB Dehradun - Day 2"
 date: 2021-04-20
 draft: false
 
-aliases: ["/blog/ssb-stories/day-2-my-experience-in-1-afsb-dehradun-lucifer-chase", "/posts/ssb/afsb-dehradun/day-2"]
+aliases: [
+  "/blog/ssb-stories/day-2-my-experience-in-1-afsb-dehradun-lucifer-chase",
+  "/posts/ssb/afsb-dehradun/day-2"
+]
+
+type: "posts"
+hiddenFromHomePage: false
 
 summary: >-
   Day - 2. Read how I fared on my second day where all the psychological tests were done. And yeah I had almost got myself expelled too and got an asterisk.

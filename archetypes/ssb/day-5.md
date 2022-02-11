@@ -13,3 +13,14 @@ summary: >-
 
 images: ["/images/{{ $name }}.webp"]
 ---
+
+{{< image src="/images/{{ $name }}.webp" caption="Me and my bois (I am Chest No. )" height=100% width=100% >}}
+
+This blog owing to its length is divided into 5 posts, each in detail description of my 5 day experience in the SSB. After reading this checkout the rest of the Posts too [All -{{ $title }} by Me](/ssb/{{ $name }}/all-days).\
+Read summary of this SSB [-{{ $title }}](/ssb/{{ $name }}).\
+Read all my SSB attempts: [SSB Stories](/categories/ssb-stories).
+
+Checkout - [Day 4](/ssb/{{ $name }}/day-4/)\
+[All my days at -{{ $title }}](/ssb/{{ $name }}/all-days/)
+
+Peace.
