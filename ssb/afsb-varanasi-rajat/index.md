@@ -1,8 +1,8 @@
-# 3-AFSB Varanasi - Rajat Gupta
+# 3-AFSB Varanasi
 
 
 Hello everyone, Rajat Gupta this side.
-{{< figure src=rajat.webp caption="Rajat Gupta" height=75% width=75% >}}
+{{< figure src=rajat.webp caption="Rajat Gupta" height=50% width=50% >}}
 
 Starting with a small intro of this short experience, I am a 17-year-old boy and I went to 4-AFSB Varanasi for my NDA-146 SSB. I know I am a bold and positive minded guy and mentally fit for armed forces (Lol working on physical fitness as well)
 
@@ -12,7 +12,7 @@ My short experience consist of listed parts:
 2. Reporting at the centre.
 3. Screening test.
 
-# Preparation:
+# Preparation
 
 Starting from the beginning, when I was in class 11th I didn't knew much about armed forces and how to get selected as an officer in the forces, though my father is in Air Force but still.
 A good friend of mine Avaneesh, who is fully oriented toward armed forces, and from him I got to know about NDA, later I watched some videos and considered to join forces if given a chance (ironically I blundered and missed the opportunity) but I had to wait for a long time for it and then NDA (II) - 146 written forms were out so I filled the form at the earliest, the exam was scheduled at 6th of sept 2020 and I started preparation on 5th Lol.
@@ -36,7 +36,7 @@ On left side of lower rib, its like an extended bone, I checked this thing to a 
 
 At that time I was thinking that I am wasting my time by preparing for SSB and I should focus on JEE but on the other hand I took the call just opposite to what I was thinking (its my habit I always think with my heart but take decisions with my mind XD) not for SSB but for my friends, my respect, if I quit in between the preparation it will not only waste my time but also of them also, and quitting tasks in between is not a job of an officer. I watched videos and did consistent exercise to make myself perfect, then comes the day of leaving for my first SSB.
 
-# Reporting in Centre:
+# Reporting in Centre
 
 Reaching the centre was much more difficult and exciting task for me as Varanasi was about 2000 Km from my residence.
 I took a bus from Ludhiana to Delhi at 1400 hrs and got to know bus will start at 1500 hrs.
@@ -71,7 +71,7 @@ I took an auto to Varanasi junction (where reporting was scheduled at 0630 hrs n
 
 I woke up at 0500 hrs in the morning and got ready and reached the railway station on time. A Sergeant came and briefed us about the checking, they checked our temperature and moved us inside.
 
-# Screening:
+# Screening
 
 So there I noticed the benefit of being a fresher as you are always on top priority and can do everything. I got in and they loaded our luggage in a truck and we got seated in a bus, and we reached the testing hall of AFSB.
 
