@@ -15,7 +15,8 @@ images: ["/images/afsb-dehradun.webp"]
 {{< image src=/images/afsb-dehradun.webp caption="Me and my bois (I am Chest No. 6)" height=100% width=100% >}}
 
 First of all, a big Sorry!\
-I had not been able to post anything for the past few months due to various other things holding me up ~(>\_<。)＼. But I promise, I will be more regular now (hopefully ༼ つ ◕_◕ ༽つ ).
+I had not been able to post anything for the past few months due to various other things holding me up ~(>\_<。).\
+But I promise, I will be more regular now (hopefully ༼ つ ◕_◕ ༽つ ).
 
 This blog owing to its length is divided into 5 posts, each in detail description of my 5 day experience in the SSB. After reading this checkout the rest of the Posts too [All 1-AFSB Dehradun by Me](/ssb/afsb-dehradun/all-days).\
 Read summary of this SSB [1-AFSB Dehradun](/ssb/afsb-dehradun).\
@@ -24,8 +25,8 @@ Read all my SSB attempts: [SSB Stories](/categories/ssb-stories).
 As always, feel free to jump sections which bores you (sorry!) and if you have any doubt or feedback please write it in the comments.
 
 {{< admonition type=tip open=true >}}
-> No matter what, don't ever lose confidence in yourself!
-> \- Speaking from experience
+No matter what, don't ever lose confidence in yourself!\
+\- Speaking from experience
 {{< /admonition >}}
 
 Part of why I was not motivated to write this (apart from nobody reading these 😐) was because, this was the day, when I completely messed up my chances at the SSB. I was doing so well, but when I was not able to perform in one or two tasks, I thought "Welp! Looks like its time to pack my bags cause I am a stupid-ass failure!" and let my confidence go down so much, I was not able to perform good later on.
@@ -48,7 +49,9 @@ Anyway, at this point of time we had no faith in the Mess food, but still hoping
 
 Another bad idea right there.
 
-As you can imagine, my friends disappeared faster than I could say "Hey, what about our plan?". And since we can't throw food (sure you can do that, but after seeing the cheery mess uncle's face, you just can't.), I had to eat all the food that was supposed to be for all of us. Not cool!
+As you can imagine, my friends disappeared faster than I could say "Hey, what about our plan?".\
+And since we can't throw food (sure you can do that, but after seeing the cheery mess uncle's face, you just can't.), I had to eat all the food that was supposed to be for all of us.\
+Not cool!
 
 At 6:30 it was fall-in time. Our temperatures were checked and the DSO briefed us about today's plan.
 
@@ -73,7 +76,32 @@ Soon, the GTO came. A smart fellow with those typical Ray-Ban Glasses. He introd
 
 After a bit of chit-chat, where he made us a very comfortable, gave few advices and explained the basic working of the tasks.
 
-## Group Discussion-I
+## Group Discussion
+
+{{< admonition type=tip open=true >}}
+The Group Discsussions are held in two parts.
+
+In Group Discussion-I, the GTO provides two topics and asks the group to select one.\
+On the basis of the selected topic, the group is given three leads on which they are expected to discuss.
+
+In Group Discussion-II, the GTO now provides only one topic and three leads related to it and we are again allowed to discuss.
+
+Time limit is usually 10 mins for each disussion.
+{{< /admonition >}}
+
+### GD-I
+
+We were given two topics. After a short but intense discussion, we chose one.
+
+The topic, along with the leads was:
+
+{{< admonition type=abstract open=true >}}
+**Topic**: What is the most important factor for the development of our country?
+**Leads**:
+  - Education
+  - Infrastructure
+  - Globalisation
+{{< /admonition >}}
 
 Do read about the rest of the experience here [SSB Stories](/categories/ssb-stories/).
 
